@@ -1,0 +1,173 @@
+
+.containerr{
+    width: 100%;
+    overflow-x: clip;
+}
+.containerr h3{
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    position: relative;
+    left: 2%;
+    color: white;
+    letter-spacing: 1px;
+}
+.slick-prev{
+    display: none !important;
+    left: -5000px !important;
+}
+.slick-slide {
+    height: 180px;
+    width: 3% !important;
+    margin: 10px 19px;
+    background: white;
+    padding: 0;
+    border-radius: 11px;
+}
+.card_slider{
+    padding-left: 16px
+}
+.card_slider img{
+    margin-top: 15px;
+    height: 36px;
+}
+.card_slider span{
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-weight: 500;
+    margin-top: 7px;
+    display: block;
+    text-transform: uppercase;
+}
+.card_slider .chart_bar{
+    position: absolute;
+}
+.card_slider h3{
+    font-family: 'Lato', sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: 8px;
+    color: black;
+    left: 0 !important;
+    text-transform: capitalize;
+}
+.card_slider price{
+    font-family: 'Lato', sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+}
+.card_slider percantage{
+    font-family: 'Lato', sans-serif;
+    float: right;
+    margin-right: 13px;
+    background: #8080805e;
+    padding: 5px 15px;
+    border-radius: 28px;
+    font-weight: 600;
+}
+.slick-next {
+    right: unset;
+    display: none !important;
+}
+
+
+/* // RESPONSIVE AREA // */
+@media only screen and (max-width: 993px){
+    .containerr {
+        margin: 200px 0 auto;
+    }
+}
+@media only screen and (max-width: 768px){
+    .containerr {
+        width: 100%;
+        margin: 150px 0 auto;
+    }
+    .slick-slide {
+        width: 4% !important;
+        margin: 10px 5px;
+    }
+}
+@media screen and (max-width:651px){
+    .containerr {
+        margin: 130px 0 auto;
+    }
+    .section {
+        margin-top: 0px;
+    }
+}
+@media only screen and (max-width: 501px){
+    .containerr{
+        width: 100%;
+        margin: 60px 0 auto;
+    }
+    .containerr h3 {
+        font-size: 20px;
+    }
+    .card_slider img{
+        height: 50px;
+    }
+    .card_slider h3{
+        font-size: 20px;
+        margin-top: 30px;
+        display: inline-flex;
+    }
+    .inline_div{
+        margin-top: 15px;
+    }
+    .card_slider span{
+        font-size: 20px;
+        display: inline-flex;
+        margin-left: 19px;
+        letter-spacing: 2px;    
+    }
+    .card_slider price{
+        font-size: 18px;
+        display: inline-flex;
+        margin-right: 20px;    
+    }
+    .card_slider percantage {
+        padding: 3px 6px;
+        float: unset !important;
+        font-size: 17px !important;
+        letter-spacing: 3px;
+        display: inline-flex !important;
+
+    }
+    .slick-initialized .slick-slide{
+      display: flex !important;
+    }
+    .slick-list {
+        width: 95% !important;
+        margin: auto;
+    }
+    .card_slider percantage {
+        margin-left: 15px;
+    }
+    .slick-slide {
+        width: 500px !important;
+        /* margin: 10px 5px; */
+        height: 222px !important;
+        border-radius: 0% !important;
+    }
+    
+}
+@media only screen and (max-width: 480px){
+    .containerr {
+        width: 100%;
+        margin: 65px 0 auto;
+        padding: 0 15px 15px 15px;
+    }
+    .slick-list {
+        width: 100% !important;
+        margin: auto;
+    }
+    .slick-slide {
+        margin-right:20px;
+        margin-left:20px;
+    }
+    .slick-slide {
+        width: 450px !important;
+    }
+}
+

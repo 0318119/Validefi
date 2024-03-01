@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+.header_banner{
+    background-image: url(../images/front-banner.gif);
+    height: 100px;
+    background-repeat: no-repeat;
+    float: right;
+    width: 87%;
+    margin-top: 10px;
+    background-size: contain;
+}
+
+/* marquee {
+    margin-top: 20px;
+    background: #1E222D;
+    padding: 5px 86px 20px px;
+    display: inline-block;
+    width: 94%;
+    float: right;
+    border: 1px solid grey;
+    border-radius: 8px;
+    display: flex;
+    padding-top: 11px;
+}
+marquee .animation{
+    display: inline-flex;
+    margin: 0 15px;
+    padding: 0 10px;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+marquee .animation::before{
+    position: absolute;
+    content: "";
+    height: 78%;
+    width: 1px;
+    background: #5e5e5e;
+    top: 3px;
+    left: -11px;
+} */
+.coin_names img{
+    height: 28px;
+    display: inline-flex;
+    margin-right: 12px;
+    border-radius: 16px;
+}
+.coin_names{
+    color: white;
+    font-size: 18px;
+
+}
+.coin_names .price{
+    margin-left: 10px;
+}
+.coin_names .current_value{
+    margin-left: 18px;
+}
+.coin_names .value{
+    margin-left: 20px;
+    color: rgb(124 157 124);
+}
+
+.Footer_banner{
+    background-image: url(../images/bannerred.gif);
+    background-repeat: no-repeat;
+    float: right;
+    width: 100%;
+    margin-top: 10px;
+    background-size: cover;
+    height: 13vh;
+}
+.dash_footer{
+    background-color: #0a1728;
+    float: right;
+    margin-top: 39px;
+    width: 100%;
+    padding: 0;
+    position: relative;
+    clear: both;
+}
+.dash_footer span{
+    display: block;
+    color: white;
+    z-index: 999;
+    position: relative;
+    text-align: center;
+    margin: 25px 0;
+    letter-spacing: 2px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+@media screen and (max-width:1780px){
+    .Footer_banner{
+        height: 100px;
+        background-repeat: no-repeat;
+        float: unset !important;
+        width: 90%;
+        background-size: contain;
+        margin: 20px auto auto auto !important;
+        display: flex;
+        position: relative;
+        top: 16px;
+    }
+}
+@media screen and (max-width:1500px){
+    .Footer_banner{
+        width: 100%;
+        margin-top: 30px;
+    }
+}
+@media screen and (max-width:1200px){
+    .dash_footer{
+        margin-top: 15px;
+    }
+}
+@media screen and (max-width:993px){
+    .Footer_banner{
+        height: 70px;
+    }
+}
+@media screen and (max-width:501px){
+    .Footer_banner{
+        height: 35px;
+    }
+}

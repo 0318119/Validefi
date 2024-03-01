@@ -1,0 +1,48 @@
+
+.bg_comming_soon{
+    background: white;
+    margin-top: 160px;
+    margin-bottom: 40px;
+    padding: 50px 0;
+}
+.own_row{
+    align-items: center;
+}
+.soon_text h3{
+    font-family: Lato,sans-serif;
+    color: #0B2251;
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 70px;
+    letter-spacing: 2px;
+    line-height: 80px;
+}
+.soon_text h3 > span{
+    color: #7C6803;
+}
+@media screen and (max-width:992px) {
+    .own_row {
+        justify-content: center;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .come{
+        height: 250px;
+    }
+}
+@media screen and (max-width:480px) {
+    .come{
+        height: 200px;
+    }
+    .soon_text h3{
+        font-size: 30px;
+        line-height: 35px;
+    }
+}
+@media screen and (max-width:300px) {
+    .come{
+        height: 150px;
+    }
+}

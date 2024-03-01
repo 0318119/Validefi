@@ -1,0 +1,13 @@
+.slider_banner{
+    width: 100%;
+}
+.slider_banner .inner_slider{
+    width: 100%;
+}
+.slider_banner .inner_slider > img{
+    background-repeat: no-repeat;
+    width: 100%;
+    position: relative;
+    background-size: cover;
+    background-position: center center;
+}

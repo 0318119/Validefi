@@ -1,0 +1,629 @@
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+  .searchInputs {
+    /* margin-top: 105px; */
+    display: flex;
+  }
+  .Trades_search{
+    position: absolute;
+    width: 100%;
+  }
+  .search_boxx{
+    width: 50%;
+  }
+  .search_boxx > a{
+    background: linear-gradient(90deg,#c09434,#caa344,#d3b154,#ddc064,#e7cf75,#e7cf75,#e7cf75,#e7cf75,#ddc064,#d3b154,#caa344,#c09434);
+    padding: 15px 35px;
+    color: #443107;
+    position: relative;
+    top: -29px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+  }
+  .search_boxx > a:hover{
+    color: #443107;
+  }
+  .search_boxx img{
+    height: 25px;
+  }
+  .search_boxx li{
+    display: inline-block;
+    list-style: none;
+    margin-left: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+    position: relative;
+    top: 4px;
+  }
+  .search_box{
+    width: 75%;
+    height: 100px;
+  }
+
+  .searchInputs > input {
+    font-family: 'Lato', sans-serif;
+    height: 50px;
+    width: 100%;
+    /* border-radius: 21px 0 0 21px; */
+    border: 0;
+    outline: none;
+    background: #23323c;
+    color: white;
+    padding-left: 20px
+  }
+  .searchInputs > input::placeholder{
+    color: white;
+    font-size: 15px;
+    letter-spacing: 1px;
+  }
+  .searchIcon{
+    height: 50px;
+    width: 50px;
+    color: white;
+    /* border: 1px solid grey; */
+    outline: none;
+    background: #23323c;
+    display: grid;
+    place-items: center;
+    /* border-radius: 0 11px 11px 0; */
+  }
+
+  .searchIcon svg {
+    font-size: 25px;
+  }
+
+  .dataResult{
+    margin-top: -7px;
+    width: 100%;
+    color: white;
+    height: 550px;
+    background: #23323c;
+    overflow: hidden;
+    overflow-y: auto;
+    z-index: 9;
+    position: relative;
+    padding-top: 25px;
+  }
+  .dataResult::-webkit-scrollbar-track{
+    background-color: transparent;
+  }
+
+  .dataResult::-webkit-scrollbar{
+    width: 8px;
+    padding: 50px;
+    background-color: transparent;
+  }
+
+  .dataResult::-webkit-scrollbar-thumb{
+    background-color: white;
+    border-radius: 50px;
+  }
+  .dataResult li{
+    list-style: none;
+    font-size: 20px;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+  }
+
+  .dataResult .dataItem {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+  }
+  .dataResult .dataItem:hover{
+    background: #54545459;
+    transition: all .5s linear;
+  }
+  .dataResult .dataItem > div a {
+    color: white;
+  }
+
+  #clearBtn {
+    cursor: pointer;
+  }
+
+  .filterData_coins{
+    display: flex;
+    margin-left: 12px;
+  }
+  .filterData_coins img{
+    height: 25px;
+  }
+  .filterData_coins li{
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    padding: 0px 0px 0px 8px;
+    letter-spacing: 3px;
+    font-weight: 600;
+  }
+
+  .search-results{
+    z-index: 11;
+    position: relative;
+    background: black;
+    width: 100%;
+    /* border-radius: 0 0 20px 20px; */
+  }
+  #search_border_active{
+    border-radius: 0;
+  }
+  #search_border_not_active{
+    border-radius: 0 0 20px 20px;
+  }
+
+  .search-results > .scroll_box{
+    overflow-x: scroll !important;
+    width: 95%;
+    overflow-y: hidden;
+    display: flex;
+    margin: auto;
+    padding: 16px 0;
+  }
+
+  .search-results > .scroll_box::-webkit-scrollbar-track{
+    background-color: transparent;
+  }
+
+  .search-results > .scroll_box::-webkit-scrollbar{
+    width: 10px;
+    height: 5px;
+    background-color: transparent;
+  }
+
+  .search-results > div::-webkit-scrollbar-thumb{
+    background-color: white;
+    border-radius: 50px;
+  }
+  .top_box{
+    list-style: none;
+    display: inline-flex;
+    color: white;
+    padding: 5px 10px;
+    margin: 10px 0;
+  }
+  .scroll_box li.top_box:hover{
+    background: #54545459 !important;
+    transition: all .2s linear;
+    border-radius: 50px;
+  }
+  #top_box_active{
+    background: black;
+    border-radius: 50px;
+    transition: all .9s linear;
+    margin: 10px 5px;
+    border: 2px solid white;
+  }
+  #top_box_not_active{
+    background: none !important;
+  }
+  #search_active{
+    display: block;
+  }
+  #search_not_active{
+    display: none;
+  }
+  .top_box img{
+    height: 25px;
+    margin: 0 6px;
+    border-radius: 50px;
+    padding: 0;
+  }
+  .top_box span{
+    display: block;
+    position: relative;
+    /* top: 4px; */
+  }
+  .next_search{
+    width: 60%;
+    /* margin: auto; */
+    border-top: 2px solid grey;
+  }
+  #search_actives{
+    background-color: red;
+  }
+  .search_max{
+    width: 60%;
+    /* margin: auto; */
+  }
+  .search_max > div{
+    position: relative;
+    width: 100%;
+    display: inline-block;
+  }
+  /* ++ == CHECHBOX INPUT == ++ */
+  /* Create a custom radio button */
+  .check_box_width{
+    width: 60%;
+    /* margin: auto; */
+    display: block;
+    background: black;
+    border-radius: 0 0 20px 20px;
+    padding-top: 27px;
+    padding-bottom: 10px;
+    z-index: 8;
+    position: relative;
+  }
+  .check_box_scroll_box .container-radio{
+    display: block;
+    color: white;
+    letter-spacing: 2px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin-left: 20px;
+  }
+  .check_box_scroll_box{
+    height: 30vh;
+    overflow-x: hidden;
+    overflow-y: scroll;
+  }
+  .check_box_scroll_box::-webkit-scrollbar-track{
+    background-color: transparent;
+  }
+  .check_box_scroll_box::-webkit-scrollbar{
+    width: 8px;
+    padding: 50px;
+    background-color: transparent;
+  }
+  .check_box_scroll_box::-webkit-scrollbar-thumb{
+    background-color: white;
+    border-radius: 50px;
+  }
+  .check_box_scroll_box .container-radio img{
+    height: 20px;
+    margin: 10px 0;
+    margin-right: 10px;
+    border-radius: 50px;
+    background: white;
+    width: 22px;
+  }
+  .check_box_scroll_box .container-radio > input{
+    width: 40px;
+    height: 19px;
+    position: relative;
+    top: 5px;
+  }
+  .check_box_scroll_box .container-radio .checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+    border-radius: 50%;
+    opacity: 0;
+  }
+  .check_box_scroll_box .container-radio:hover input ~ .checkmark {
+    background-color: #ccc;
+  }
+  .check_box_scroll_box .container-radio input:checked ~ .checkmark {
+    background-color: #2196F3;
+  }
+  .check_box_scroll_box .container-radio .checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+  }
+  .check_box_scroll_box .container-radio input:checked ~ .checkmark:after {
+    display: block;
+  }
+  .check_box_scroll_box .container-radio .checkmark:after {
+    top: 9px;
+    left: 9px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: white;
+  }
+  #tv_chart_container{
+    margin: 65px 0 0 0;
+    width: 75%;
+  }
+  #tv_chart_container .toolbar-2yU8ifXU {
+    background: #131722 !important;
+  }
+  #tv_chart_container .button-1SoiPS-f {
+    color: white !important;
+  }
+  #tv_chart_container .button-2Vpz_LXc.isInteractive-2Vpz_LXc.isActive-2Vpz_LXc {
+    color: white !important;
+  }
+  .Btn_wallet{
+    display: flex;
+    float: right;
+    position: relative;
+    right: 87px;
+    top: -108px;
+  }
+  .Btn_wallet button{
+      font-family: 'Lato', sans-serif;
+      background: linear-gradient(90deg,#c09434,#caa344,#d3b154,#ddc064,#e7cf75,#e7cf75,#e7cf75,#e7cf75,#ddc064,#d3b154,#caa344,#c09434);
+      color: #443107;
+      border: none;
+      padding: 0px 34px;
+      font-weight: 600;
+      letter-spacing: 2px;
+      font-size: 18px;
+      transition: all 0.5s;
+      overflow: hidden;
+      position: relative;
+      height: 50px;
+      line-height: 50px;
+      margin: auto;
+      display: block;
+  }
+
+  .Btn_wallet button:before,
+  .Btn_wallet button:after{
+      content: "";
+      background-color: #8f939396;
+      height: 100%;
+      width: 50%;
+      opacity: 1;
+      position: absolute;
+      top: 0;
+      left: -100%;
+      z-index: 0;
+      transition: all 0.4s ease-out 0.1s;
+      clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+  }
+
+  .Btn_wallet button:after{
+      opacity: 0;
+      transform: scale(0.9,0.7);
+      left: 0;
+      transition: all 0.3s ease-out 0s;
+  }
+
+  .Btn_wallet button:hover:before{ left: 100%; }
+
+  .Btn_wallet button:hover:after{
+      opacity: 0.3;
+      transform: scale(1);
+  }
+  .Btn_wallet button img{
+    margin-right: 5px;
+    position: relative;
+    top: -2px;
+  }
+  .wallet_msg p{
+    color: white;
+    letter-spacing: 1px;
+    margin-top: 12px;
+    text-align: center;
+  }
+  .wig_width{
+    width: 50%;
+    display: inline-flex;
+    padding: 5px;
+  }
+  .check_box_parent{
+    display: flex;
+    width: 100%;
+    position: absolute;
+  }
+  .ChartContainer{
+    display: flex;
+  }
+  .SwapsContainer{
+    width: 25%;
+    margin: 63px 0 0 0;
+    padding: 0px 20px;
+  }
+  #main {
+    padding: 10px;
+    height: 745px;
+  }
+  #WEB3_CONNECT_MODAL_ID{
+    position: relative;
+    z-index: 15;
+  }
+
+  @media screen and (max-width:1880px){
+    #main {
+      height: 659px;
+    }
+  }
+  @media screen and (max-width:1500px) {
+    .search_boxx{
+      width: 82%;
+    }
+    .search-results{
+      width: 100%;
+    }
+    .Btn_wallet button {
+      width: 100%;
+    }
+    .Btn_wallet {
+      display: flex;
+      float: unset;
+      position: relative;
+      right: unset;
+      top: unset;
+      justify-content: center;
+    }
+    .search_max {
+      margin: auto;
+    }
+    .next_search {
+      margin: auto;
+    }
+    .check_box_width {
+      margin: auto;
+    }
+    .Btn_wallet {
+      margin-top: 16px;
+    }
+    #tv_chart_container {
+      width: 65%;
+    }
+    .SwapsContainer{
+      width: 35%;
+    }
+  }
+  @media screen and (max-width:1200px){
+    .search_box{
+      width: 90%;
+    }
+    .wig_width{
+      width: 100%;
+      display: flex;
+    }
+  }
+  @media screen and (max-width:993px){
+    .search-results {
+      width: 100%;
+    }
+    .search_boxx{
+      width: 100%;
+    }
+    .search_box {
+      height: 75px;
+      width: 100%;
+    }
+    .searchInputs {
+      justify-content: center;
+    }
+    .check_box_width {
+      width: 100%;
+    }
+    .ChartContainer {
+      display: block;
+    }
+    #tv_chart_container {
+      width: 100%;
+    }
+    .SwapsContainer {
+      width: 50%;
+      margin: 10px auto;
+    }
+  }
+  @media screen and (max-width:850px){
+    .SwapsContainer {
+      width: 70%;
+    }
+  }
+  @media screen and (max-width:778px){
+    .search_boxx > a {
+      top: -14px;
+      padding: 11px 35px;
+    }
+    
+    .search_boxx {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+  }
+  @media screen and (max-width:601px){
+      .top_box {
+        display: inline-table;
+      }
+      #top_box_active {
+        border-radius: 10px;
+      }
+      .top_box img {
+        height: 25px;
+        margin: 0 auto !important;
+        display: block;
+      }
+      .top_box span {
+          top: 0px;
+          margin-top: 9px;
+      }
+      .top_box:hover {
+          border-radius: 10px;
+      }
+      .top_box {
+          padding: 11px 20px;
+      }
+      .dataResult{
+        overflow: scroll !important;
+      }
+      .search_boxx img {
+          height: 25px;
+          position: relative;
+          top: -9px;
+      }
+      .next_search{
+        width: 50%;
+        margin: 10px auto auto;
+        border-top: 7px solid grey;
+      }
+      .search_boxx > a {
+        padding: 5px 35px;
+        display: inline-block;
+      }
+      .SwapsContainer {
+        width: 90%;
+      }
+  }
+  @media screen and (max-width:501px){
+      .searchInputs > input {
+        width: 100% !important;
+      }
+      .search_box {
+        height: 60px !important;
+      }
+      .filterData_coins li {
+        font-size: 12px;
+        letter-spacing: 2px;
+        margin-top: 4px;
+      }
+      .Trades_search input {
+        font-size: 12px;
+      }
+      .Trades_search .search_max > div svg {
+        top: 37px;
+        height: 25px;
+      }
+      #tv_chart_container {
+        height: 70vh;
+        margin: 40px 0 0 0;
+      }
+      .ChartContainer {
+          padding: 5px;
+      }
+      .SwapsContainer {
+        width: 100%;
+      }
+  }
+  @media screen and (max-width:801px){
+    .searchInputs > input::placeholder{
+      font-size: 12px;
+      letter-spacing: 0px;
+    }
+  }
+
+  /* @media screen and (max-width:600px){
+  .SwapsContainer{
+    display: none       ;
+  }
+    
+  }
+  @media screen and (max-width:400px){
+    .SwapsContainer1{
+      visibility: visible;
+    }
+      
+    }
+    
+
+  .SwapsContainer1{
+    visibility: hidden;
+  } */
+
+  @media screen and (max-width:600px){
+  .SwapsContainer{
+    display: none ;
+  }
+  .SwapsContainer1{
+    display: block !important;
+  }
+} 
+.SwapsContainer1{
+  display: none ;
+}

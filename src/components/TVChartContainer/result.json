@@ -1,0 +1,2206 @@
+{
+    "ethereum": {
+      "dexTrades": [
+        {
+          "timeInterval": {
+            "minute": "2022-04-18 22:15:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 14955.457341429992,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.13,
+          "trades": 1,
+          "quotePrice": 0.000008692479075171487,
+          "maximum_price": 0.000008692479075171487,
+          "minimum_price": 0.000008692479075171487,
+          "median_price": 0.000008692479075171487,
+          "open_price": "8.692479075171487e-06",
+          "close_price": "8.692479075171487e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-18 22:00:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 52075.44912519764,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.45,
+          "trades": 2,
+          "quotePrice": 0.000008641308093534221,
+          "maximum_price": 0.000008654533047577404,
+          "minimum_price": 0.00000861497906996774,
+          "median_price": 0.000008654533047577404,
+          "open_price": "8.61497906996774e-06",
+          "close_price": "8.654533047577404e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-18 21:50:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 17464.932404278603,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.15,
+          "trades": 1,
+          "quotePrice": 0.000008588639024062447,
+          "maximum_price": 0.000008588639024062447,
+          "minimum_price": 0.000008588639024062447,
+          "median_price": 0.000008588639024062447,
+          "open_price": "8.588639024062447e-06",
+          "close_price": "8.588639024062447e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-18 21:45:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 17518.577051053468,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.15,
+          "trades": 1,
+          "quotePrice": 0.000008562339256371272,
+          "maximum_price": 0.000008562339256371272,
+          "minimum_price": 0.000008562339256371272,
+          "median_price": 0.000008562339256371272,
+          "open_price": "8.562339256371272e-06",
+          "close_price": "8.562339256371272e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-18 20:50:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 18000,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.15364368773903728,
+          "trades": 1,
+          "quotePrice": 0.000008535760429946515,
+          "maximum_price": 0.000008535760429946515,
+          "minimum_price": 0.000008535760429946515,
+          "median_price": 0.000008535760429946515,
+          "open_price": "8.535760429946515e-06",
+          "close_price": "8.535760429946515e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-18 20:15:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 17627.9290793574,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.15,
+          "trades": 1,
+          "quotePrice": 0.00000850922415927192,
+          "maximum_price": 0.00000850922415927192,
+          "minimum_price": 0.00000850922415927192,
+          "median_price": 0.00000850922415927192,
+          "open_price": "8.50922415927192e-06",
+          "close_price": "8.50922415927192e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-18 20:10:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 17682.32735799793,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.15,
+          "trades": 1,
+          "quotePrice": 0.000008483046205575036,
+          "maximum_price": 0.000008483046205575036,
+          "minimum_price": 0.000008483046205575036,
+          "median_price": 0.000008483046205575036,
+          "open_price": "8.483046205575036e-06",
+          "close_price": "8.483046205575036e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-18 17:15:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 17818.25662564863,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.15068629969698974,
+          "trades": 1,
+          "quotePrice": 0.000008456848661618395,
+          "maximum_price": 0.000008456848661618395,
+          "minimum_price": 0.000008456848661618395,
+          "median_price": 0.000008456848661618395,
+          "open_price": "8.456848661618395e-06",
+          "close_price": "8.456848661618395e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-18 16:05:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 30803.34581160886,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.2594,
+          "trades": 1,
+          "quotePrice": 0.000008421163129046842,
+          "maximum_price": 0.000008421163129046842,
+          "minimum_price": 0.000008421163129046842,
+          "median_price": 0.000008421163129046842,
+          "open_price": "8.421163129046842e-06",
+          "close_price": "8.421163129046842e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-18 13:10:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 24462.786666666667,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.2048632963613817,
+          "trades": 2,
+          "quotePrice": 0.000008374487304037659,
+          "maximum_price": 0.000008380322722927628,
+          "minimum_price": 0.000008362572794124005,
+          "median_price": 0.000008380322722927628,
+          "open_price": "8.362572794124005e-06",
+          "close_price": "8.362572794124005e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-18 10:55:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 117061.49066666665,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.9924946675661744,
+          "trades": 2,
+          "quotePrice": 0.000008478404485658818,
+          "maximum_price": 0.000008552995901957122,
+          "minimum_price": 0.000008466234241197218,
+          "median_price": 0.000008552995901957122,
+          "open_price": "8.466234241197218e-06",
+          "close_price": "8.466234241197218e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-18 09:55:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 157825.90666666668,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 1.3708014731731069,
+          "trades": 2,
+          "quotePrice": 0.000008685528897789152,
+          "maximum_price": 0.000008794395805688825,
+          "minimum_price": 0.00000867288691292443,
+          "median_price": 0.000008794395805688825,
+          "open_price": "8.794395805688825e-06",
+          "close_price": "8.794395805688825e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-18 06:50:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 107308.22623536388,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.9408243426697096,
+          "trades": 1,
+          "quotePrice": 0.000008767495053046146,
+          "maximum_price": 0.000008767495053046146,
+          "minimum_price": 0.000008767495053046146,
+          "median_price": 0.000008767495053046146,
+          "open_price": "8.767495053046146e-06",
+          "close_price": "8.767495053046146e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-18 02:55:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 44032.2107303282,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.380919216101461,
+          "trades": 1,
+          "quotePrice": 0.000008650921899751312,
+          "maximum_price": 0.000008650921899751312,
+          "minimum_price": 0.000008650921899751312,
+          "median_price": 0.000008650921899751312,
+          "open_price": "8.650921899751312e-06",
+          "close_price": "8.650921899751312e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-18 02:15:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 58319.41572840988,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.5,
+          "trades": 1,
+          "quotePrice": 0.00000857347409529051,
+          "maximum_price": 0.00000857347409529051,
+          "minimum_price": 0.00000857347409529051,
+          "median_price": 0.00000857347409529051,
+          "open_price": "8.57347409529051e-06",
+          "close_price": "8.57347409529051e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-18 02:10:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 553097.1815304607,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 4.5,
+          "trades": 2,
+          "quotePrice": 0.000008136002406571968,
+          "maximum_price": 0.00000831089199530399,
+          "minimum_price": 0.00000792747590287064,
+          "median_price": 0.00000831089199530399,
+          "open_price": "7.92747590287064e-06",
+          "close_price": "8.31089199530399e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-18 02:00:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 42732.46666666666,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.33116195987548497,
+          "trades": 2,
+          "quotePrice": 0.000007749657010410938,
+          "maximum_price": 0.000007766658198610893,
+          "minimum_price": 0.000007739047119709694,
+          "median_price": 0.000007766658198610893,
+          "open_price": "7.739047119709694e-06",
+          "close_price": "7.739047119709694e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-17 23:30:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 723525.1999999998,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 5.98907727841879,
+          "trades": 12,
+          "quotePrice": 0.000008277634667622899,
+          "maximum_price": 0.000008797237462335066,
+          "minimum_price": 0.000007843499264279876,
+          "median_price": 0.000008350086019844601,
+          "open_price": "8.797237462335066e-06",
+          "close_price": "7.843499264279876e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-17 23:25:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 449159.46666666673,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 4.121818451014673,
+          "trades": 8,
+          "quotePrice": 0.000009176737343651681,
+          "maximum_price": 0.000009544021871123753,
+          "minimum_price": 0.000008888286747970624,
+          "median_price": 0.000009259189472574356,
+          "open_price": "9.448347841773143e-06",
+          "close_price": "8.980250368608912e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-17 22:35:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 28908.643439242904,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.27706665113483314,
+          "trades": 2,
+          "quotePrice": 0.00000958421489812008,
+          "maximum_price": 0.000009595320463714281,
+          "minimum_price": 0.000009569612400655878,
+          "median_price": 0.000009595320463714281,
+          "open_price": "9.569612400655878e-06",
+          "close_price": "9.569612400655878e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-17 13:35:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 66710.37333333332,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.6450827068718091,
+          "trades": 4,
+          "quotePrice": 0.000009669901015971067,
+          "maximum_price": 0.000009715301071687188,
+          "minimum_price": 0.000009625099435563961,
+          "median_price": 0.000009685088831425342,
+          "open_price": "9.685088831425342e-06",
+          "close_price": "9.655016444525093e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-17 12:25:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 10235.7,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.09999918453706491,
+          "trades": 1,
+          "quotePrice": 0.0000097696478537926,
+          "maximum_price": 0.0000097696478537926,
+          "minimum_price": 0.0000097696478537926,
+          "median_price": 0.0000097696478537926,
+          "open_price": "9.7696478537926e-06",
+          "close_price": "9.7696478537926e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-17 11:40:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 10255.4,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.09999955938968819,
+          "trades": 1,
+          "quotePrice": 0.000009750917505868927,
+          "maximum_price": 0.000009750917505868927,
+          "minimum_price": 0.000009750917505868927,
+          "median_price": 0.000009750917505868927,
+          "open_price": "9.750917505868927e-06",
+          "close_price": "9.750917505868927e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-17 09:00:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 9880.668280486156,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.09616424,
+          "trades": 1,
+          "quotePrice": 0.000009732564364084538,
+          "maximum_price": 0.000009732564364084538,
+          "minimum_price": 0.000009732564364084538,
+          "median_price": 0.000009732564364084538,
+          "open_price": "9.732564364084538e-06",
+          "close_price": "9.732564364084538e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-17 08:55:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 25220.466666666667,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.24458433530131962,
+          "trades": 2,
+          "quotePrice": 0.000009697851294107151,
+          "maximum_price": 0.000009705818629267597,
+          "minimum_price": 0.00000968298454849076,
+          "median_price": 0.000009705818629267597,
+          "open_price": "9.705818629267597e-06",
+          "close_price": "9.705818629267597e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-17 05:50:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 38328.695351080336,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.3739220789948755,
+          "trades": 2,
+          "quotePrice": 0.00000975566936390221,
+          "maximum_price": 0.000009775684491144478,
+          "minimum_price": 0.000009740667798305782,
+          "median_price": 0.000009775684491144478,
+          "open_price": "9.775684491144478e-06",
+          "close_price": "9.775684491144478e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-17 02:45:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 23983.335853329463,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.2353441300892807,
+          "trades": 2,
+          "quotePrice": 0.000009812818847575338,
+          "maximum_price": 0.000009819789396137513,
+          "minimum_price": 0.00000979768442471431,
+          "median_price": 0.000009819789396137513,
+          "open_price": "9.819789396137513e-06",
+          "close_price": "9.819789396137513e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-17 02:30:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 26540.466666666667,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.26167718203112467,
+          "trades": 2,
+          "quotePrice": 0.000009859554668636496,
+          "maximum_price": 0.000009868948979613827,
+          "minimum_price": 0.000009844311687385553,
+          "median_price": 0.000009868948979613827,
+          "open_price": "9.844311687385553e-06",
+          "close_price": "9.844311687385553e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-17 01:30:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 25220.466666666667,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.2498788381770231,
+          "trades": 2,
+          "quotePrice": 0.000009907780116824025,
+          "maximum_price": 0.000009916009834945764,
+          "minimum_price": 0.000009892423774540605,
+          "median_price": 0.000009916009834945764,
+          "open_price": "9.916009834945764e-06",
+          "close_price": "9.916009834945764e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-17 00:15:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 7017.838143279088,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.07,
+          "trades": 1,
+          "quotePrice": 0.000009974581711753824,
+          "maximum_price": 0.000009974581711753824,
+          "minimum_price": 0.000009974581711753824,
+          "median_price": 0.000009974581711753824,
+          "open_price": "9.974581711753824e-06",
+          "close_price": "9.974581711753824e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-16 23:00:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 102695.94273427065,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 1.0137998650100069,
+          "trades": 1,
+          "quotePrice": 0.000009871858985055033,
+          "maximum_price": 0.000009871858985055033,
+          "minimum_price": 0.000009871858985055033,
+          "median_price": 0.000009871858985055033,
+          "open_price": "9.871858985055033e-06",
+          "close_price": "9.871858985055033e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-16 22:40:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 537184.7432266485,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 5,
+          "trades": 2,
+          "quotePrice": 0.000009307784822716763,
+          "maximum_price": 0.000009542208104521613,
+          "minimum_price": 0.000009084603506141167,
+          "median_price": 0.000009542208104521613,
+          "open_price": "9.084603506141167e-06",
+          "close_price": "9.542208104521613e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-16 22:35:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 230337.24255014112,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 2,
+          "trades": 1,
+          "quotePrice": 0.000008682920650856662,
+          "maximum_price": 0.000008682920650856662,
+          "minimum_price": 0.000008682920650856662,
+          "median_price": 0.000008682920650856662,
+          "open_price": "8.682920650856662e-06",
+          "close_price": "8.682920650856662e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-16 14:55:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 3,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.000025524540181657,
+          "trades": 1,
+          "quotePrice": 0.000008508180060552333,
+          "maximum_price": 0.000008508180060552333,
+          "minimum_price": 0.000008508180060552333,
+          "median_price": 0.000008508180060552333,
+          "open_price": "8.508180060552333e-06",
+          "close_price": "8.508180060552333e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-16 14:20:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 25220.466666666667,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.2139799032487452,
+          "trades": 2,
+          "quotePrice": 0.000008484375252721144,
+          "maximum_price": 0.000008490898050436938,
+          "minimum_price": 0.000008472203959259144,
+          "median_price": 0.000008490898050436938,
+          "open_price": "8.472203959259144e-06",
+          "close_price": "8.472203959259144e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-16 12:40:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 260735.68955711368,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 2.17832244,
+          "trades": 1,
+          "quotePrice": 0.000008354523478163286,
+          "maximum_price": 0.000008354523478163286,
+          "minimum_price": 0.000008354523478163286,
+          "median_price": 0.000008354523478163286,
+          "open_price": "8.354523478163286e-06",
+          "close_price": "8.354523478163286e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-16 12:25:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 61444.916175597944,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.499251105,
+          "trades": 1,
+          "quotePrice": 0.000008125181643559165,
+          "maximum_price": 0.000008125181643559165,
+          "minimum_price": 0.000008125181643559165,
+          "median_price": 0.000008125181643559165,
+          "open_price": "8.125181643559165e-06",
+          "close_price": "8.125181643559165e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-16 12:20:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 6500,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.05250816962556998,
+          "trades": 1,
+          "quotePrice": 0.000008078179942395382,
+          "maximum_price": 0.000008078179942395382,
+          "minimum_price": 0.000008078179942395382,
+          "median_price": 0.000008078179942395382,
+          "open_price": "8.078179942395382e-06",
+          "close_price": "8.078179942395382e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-16 12:15:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 182390.38362820502,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 1.45,
+          "trades": 1,
+          "quotePrice": 0.000007949980537108595,
+          "maximum_price": 0.000007949980537108595,
+          "minimum_price": 0.000007949980537108595,
+          "median_price": 0.000007949980537108595,
+          "open_price": "7.949980537108595e-06",
+          "close_price": "7.949980537108595e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-16 04:40:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 2427.5410613693816,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.019,
+          "trades": 1,
+          "quotePrice": 0.00000782685010043952,
+          "maximum_price": 0.00000782685010043952,
+          "minimum_price": 0.00000782685010043952,
+          "median_price": 0.00000782685010043952,
+          "open_price": "7.82685010043952e-06",
+          "close_price": "7.82685010043952e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-16 04:35:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 52189.25584463597,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.40813898511711644,
+          "trades": 2,
+          "quotePrice": 0.000007820364144147212,
+          "maximum_price": 0.000007843835631262036,
+          "minimum_price": 0.000007809589030405773,
+          "median_price": 0.000007843835631262036,
+          "open_price": "7.843835631262036e-06",
+          "close_price": "7.843835631262036e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-16 01:20:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 205732.4466050466,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 1.596353137,
+          "trades": 1,
+          "quotePrice": 0.00000775936495843355,
+          "maximum_price": 0.00000775936495843355,
+          "minimum_price": 0.00000775936495843355,
+          "median_price": 0.00000775936495843355,
+          "open_price": "7.75936495843355e-06",
+          "close_price": "7.75936495843355e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-16 00:25:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 34020.46666666667,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.25891629624049267,
+          "trades": 2,
+          "quotePrice": 0.0000076106038984520886,
+          "maximum_price": 0.000007621688759956388,
+          "minimum_price": 0.0000076002619326091356,
+          "median_price": 0.000007621688759956388,
+          "open_price": "7.6002619326091356e-06",
+          "close_price": "7.6002619326091356e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-16 00:05:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 7807.356437907156,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.0598463,
+          "trades": 1,
+          "quotePrice": 0.000007665373097278806,
+          "maximum_price": 0.000007665373097278806,
+          "minimum_price": 0.000007665373097278806,
+          "median_price": 0.000007665373097278806,
+          "open_price": "7.665373097278806e-06",
+          "close_price": "7.665373097278806e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 22:05:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 114980.46666666666,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.8848331292789778,
+          "trades": 2,
+          "quotePrice": 0.00000769550824527567,
+          "maximum_price": 0.000007758787087418205,
+          "minimum_price": 0.000007684965752194232,
+          "median_price": 0.000007758787087418205,
+          "open_price": "7.684965752194232e-06",
+          "close_price": "7.684965752194232e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 19:30:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 33974.277231751585,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.2647610029927745,
+          "trades": 3,
+          "quotePrice": 0.000007792984121096619,
+          "maximum_price": 0.000007850460872361627,
+          "minimum_price": 0.000007780032461839754,
+          "median_price": 0.000007801366253132674,
+          "open_price": "7.850460872361627e-06",
+          "close_price": "7.780032461839754e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 18:55:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 26813.256477811938,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.21,
+          "trades": 1,
+          "quotePrice": 0.000007831946864558421,
+          "maximum_price": 0.000007831946864558421,
+          "minimum_price": 0.000007831946864558421,
+          "median_price": 0.000007831946864558421,
+          "open_price": "7.831946864558421e-06",
+          "close_price": "7.831946864558421e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 17:40:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 60012.04375819855,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.4689441445226495,
+          "trades": 3,
+          "quotePrice": 0.000007814167209704213,
+          "maximum_price": 0.000007833173027111193,
+          "minimum_price": 0.000007783934771913249,
+          "median_price": 0.000007803269921783915,
+          "open_price": "7.833173027111193e-06",
+          "close_price": "7.783934771913249e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 14:45:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 25230.602806901403,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.19671562998385092,
+          "trades": 1,
+          "quotePrice": 0.000007796707494045394,
+          "maximum_price": 0.000007796707494045394,
+          "minimum_price": 0.000007796707494045394,
+          "median_price": 0.000007796707494045394,
+          "open_price": "7.796707494045394e-06",
+          "close_price": "7.796707494045394e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 14:30:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 129930,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 1.0000019281493988,
+          "trades": 1,
+          "quotePrice": 0.000007696466775566835,
+          "maximum_price": 0.000007696466775566835,
+          "minimum_price": 0.000007696466775566835,
+          "median_price": 0.000007696466775566835,
+          "open_price": "7.696466775566835e-06",
+          "close_price": "7.696466775566835e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 13:35:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 109051.67777294178,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.8228591349494275,
+          "trades": 3,
+          "quotePrice": 0.0000075455889515309944,
+          "maximum_price": 0.00000760714490559422,
+          "minimum_price": 0.000007534156559888904,
+          "median_price": 0.0000075956321379363794,
+          "open_price": "7.534156559888904e-06",
+          "close_price": "7.60714490559422e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 13:05:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 40249.63782266906,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.3,
+          "trades": 1,
+          "quotePrice": 0.000007453483216960441,
+          "maximum_price": 0.000007453483216960441,
+          "minimum_price": 0.000007453483216960441,
+          "median_price": 0.000007453483216960441,
+          "open_price": "7.453483216960441e-06",
+          "close_price": "7.453483216960441e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 12:15:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 14824.844086833202,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.11,
+          "trades": 2,
+          "quotePrice": 0.000007419976854778347,
+          "maximum_price": 0.000007424884449411907,
+          "minimum_price": 0.0000074158921455880655,
+          "median_price": 0.000007424884449411907,
+          "open_price": "7.4158921455880655e-06",
+          "close_price": "7.424884449411907e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 12:10:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 144605.9945518004,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 1.0591481585755653,
+          "trades": 1,
+          "quotePrice": 0.0000073243724221692616,
+          "maximum_price": 0.0000073243724221692616,
+          "minimum_price": 0.0000073243724221692616,
+          "median_price": 0.0000073243724221692616,
+          "open_price": "7.3243724221692616e-06",
+          "close_price": "7.3243724221692616e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 11:05:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 49999.99999999999,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.36049159509674017,
+          "trades": 1,
+          "quotePrice": 0.000007209831901934804,
+          "maximum_price": 0.000007209831901934804,
+          "minimum_price": 0.000007209831901934804,
+          "median_price": 0.000007209831901934804,
+          "open_price": "7.209831901934804e-06",
+          "close_price": "7.209831901934804e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 11:00:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 36181.78559679516,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.2590627954194382,
+          "trades": 2,
+          "quotePrice": 0.000007160033457342276,
+          "maximum_price": 0.000007176452723767794,
+          "minimum_price": 0.000007155619734999291,
+          "median_price": 0.000007176452723767794,
+          "open_price": "7.155619734999291e-06",
+          "close_price": "7.176452723767794e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 10:50:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 50023.38420945177,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.35570258,
+          "trades": 1,
+          "quotePrice": 0.000007110726025865141,
+          "maximum_price": 0.000007110726025865141,
+          "minimum_price": 0.000007110726025865141,
+          "median_price": 0.000007110726025865141,
+          "open_price": "7.110726025865141e-06",
+          "close_price": "7.110726025865141e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 10:05:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 28303.0923481826,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.2,
+          "trades": 1,
+          "quotePrice": 0.000007066365665617539,
+          "maximum_price": 0.000007066365665617539,
+          "minimum_price": 0.000007066365665617539,
+          "median_price": 0.000007066365665617539,
+          "open_price": "7.066365665617539e-06",
+          "close_price": "7.066365665617539e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 09:55:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 6243.844529013801,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.044,
+          "trades": 1,
+          "quotePrice": 0.000007046940357906331,
+          "maximum_price": 0.000007046940357906331,
+          "minimum_price": 0.000007046940357906331,
+          "median_price": 0.000007046940357906331,
+          "open_price": "7.046940357906331e-06",
+          "close_price": "7.046940357906331e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 09:40:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 3500,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.024645164787354113,
+          "trades": 1,
+          "quotePrice": 0.000007041475653529746,
+          "maximum_price": 0.000007041475653529746,
+          "minimum_price": 0.000007041475653529746,
+          "median_price": 0.000007041475653529746,
+          "open_price": "7.041475653529746e-06",
+          "close_price": "7.041475653529746e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 09:10:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 320252.87077899795,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 2.198132806400867,
+          "trades": 4,
+          "quotePrice": 0.000006863741146344846,
+          "maximum_price": 0.000006959802427490932,
+          "minimum_price": 0.000006688617745422073,
+          "median_price": 0.0000067992206159447,
+          "open_price": "6.700899811500091e-06",
+          "close_price": "6.959802427490932e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 09:00:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 235473.26148857435,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 1.5591772699910436,
+          "trades": 1,
+          "quotePrice": 0.000006621462072315578,
+          "maximum_price": 0.000006621462072315578,
+          "minimum_price": 0.000006621462072315578,
+          "median_price": 0.000006621462072315578,
+          "open_price": "6.621462072315578e-06",
+          "close_price": "6.621462072315578e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 08:55:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 86377.1,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.5579568549053833,
+          "trades": 1,
+          "quotePrice": 0.000006459546047567969,
+          "maximum_price": 0.000006459546047567969,
+          "minimum_price": 0.000006459546047567969,
+          "median_price": 0.000006459546047567969,
+          "open_price": "6.459546047567969e-06",
+          "close_price": "6.459546047567969e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 08:50:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 39543.80895152398,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.2529983,
+          "trades": 1,
+          "quotePrice": 0.000006397924395956544,
+          "maximum_price": 0.000006397924395956544,
+          "minimum_price": 0.000006397924395956544,
+          "median_price": 0.000006397924395956544,
+          "open_price": "6.397924395956544e-06",
+          "close_price": "6.397924395956544e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 08:25:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 115184,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.7283656891901696,
+          "trades": 1,
+          "quotePrice": 0.000006323497093260952,
+          "maximum_price": 0.000006323497093260952,
+          "minimum_price": 0.000006323497093260952,
+          "median_price": 0.000006323497093260952,
+          "open_price": "6.323497093260952e-06",
+          "close_price": "6.323497093260952e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 08:20:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 20166.6,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.1262296023399441,
+          "trades": 1,
+          "quotePrice": 0.0000062593398163271995,
+          "maximum_price": 0.0000062593398163271995,
+          "minimum_price": 0.0000062593398163271995,
+          "median_price": 0.0000062593398163271995,
+          "open_price": "6.2593398163271995e-06",
+          "close_price": "6.2593398163271995e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 08:15:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 67542.24131013885,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.42,
+          "trades": 1,
+          "quotePrice": 0.000006218330808293051,
+          "maximum_price": 0.000006218330808293051,
+          "minimum_price": 0.000006218330808293051,
+          "median_price": 0.000006218330808293051,
+          "open_price": "6.218330808293051e-06",
+          "close_price": "6.218330808293051e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 08:00:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 98687,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.606107560195839,
+          "trades": 1,
+          "quotePrice": 0.000006141716337469362,
+          "maximum_price": 0.000006141716337469362,
+          "minimum_price": 0.000006141716337469362,
+          "median_price": 0.000006141716337469362,
+          "open_price": "6.141716337469362e-06",
+          "close_price": "6.141716337469362e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 07:50:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 408960.26952759345,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 2.42,
+          "trades": 4,
+          "quotePrice": 0.000005917445239351587,
+          "maximum_price": 0.000006091664472345054,
+          "minimum_price": 0.00000581530158553096,
+          "median_price": 0.000006060541720133393,
+          "open_price": "5.81530158553096e-06",
+          "close_price": "6.091664472345054e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 07:40:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 21496.91190058636,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.12327604316058545,
+          "trades": 2,
+          "quotePrice": 0.000005734593123453369,
+          "maximum_price": 0.000005739864825079087,
+          "minimum_price": 0.000005731001525831052,
+          "median_price": 0.000005739864825079087,
+          "open_price": "5.731001525831052e-06",
+          "close_price": "5.739864825079087e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 07:15:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 70212.59211145625,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.4,
+          "trades": 1,
+          "quotePrice": 0.000005696983802635225,
+          "maximum_price": 0.000005696983802635225,
+          "minimum_price": 0.000005696983802635225,
+          "median_price": 0.000005696983802635225,
+          "open_price": "5.696983802635225e-06",
+          "close_price": "5.696983802635225e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 07:10:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 258642.51855219805,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 1.4394624267139433,
+          "trades": 1,
+          "quotePrice": 0.000005565451630967774,
+          "maximum_price": 0.000005565451630967774,
+          "minimum_price": 0.000005565451630967774,
+          "median_price": 0.000005565451630967774,
+          "open_price": "5.565451630967774e-06",
+          "close_price": "5.565451630967774e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 06:55:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 11904.72060528764,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.065,
+          "trades": 1,
+          "quotePrice": 0.000005460018941656588,
+          "maximum_price": 0.000005460018941656588,
+          "minimum_price": 0.000005460018941656588,
+          "median_price": 0.000005460018941656588,
+          "open_price": "5.460018941656588e-06",
+          "close_price": "5.460018941656588e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 06:50:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 9171.016149451532,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.05,
+          "trades": 1,
+          "quotePrice": 0.000005451958560010846,
+          "maximum_price": 0.000005451958560010846,
+          "minimum_price": 0.000005451958560010846,
+          "median_price": 0.000005451958560010846,
+          "open_price": "5.451958560010846e-06",
+          "close_price": "5.451958560010846e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 06:10:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 48980.46666666667,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.2664480917556435,
+          "trades": 2,
+          "quotePrice": 0.0000054398847109591335,
+          "maximum_price": 0.0000054522857029739866,
+          "minimum_price": 0.000005433630715995574,
+          "median_price": 0.0000054522857029739866,
+          "open_price": "5.433630715995574e-06",
+          "close_price": "5.433630715995574e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 06:05:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 44800.35851770884,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.245,
+          "trades": 1,
+          "quotePrice": 0.000005468706235981473,
+          "maximum_price": 0.000005468706235981473,
+          "minimum_price": 0.000005468706235981473,
+          "median_price": 0.000005468706235981473,
+          "open_price": "5.468706235981473e-06",
+          "close_price": "5.468706235981473e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 05:50:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 22046,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.119999415383067,
+          "trades": 1,
+          "quotePrice": 0.000005443137774792117,
+          "maximum_price": 0.000005443137774792117,
+          "minimum_price": 0.000005443137774792117,
+          "median_price": 0.000005443137774792117,
+          "open_price": "5.443137774792117e-06",
+          "close_price": "5.443137774792117e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 05:25:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 186404.01676662356,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 1,
+          "trades": 1,
+          "quotePrice": 0.000005364691262270343,
+          "maximum_price": 0.000005364691262270343,
+          "minimum_price": 0.000005364691262270343,
+          "median_price": 0.000005364691262270343,
+          "open_price": "5.364691262270343e-06",
+          "close_price": "5.364691262270343e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 05:20:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 66394.09999999999,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.349996446082737,
+          "trades": 1,
+          "quotePrice": 0.000005271499215784792,
+          "maximum_price": 0.000005271499215784792,
+          "minimum_price": 0.000005271499215784792,
+          "median_price": 0.000005271499215784792,
+          "open_price": "5.271499215784792e-06",
+          "close_price": "5.271499215784792e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 05:15:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 301260.3,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 1.5487624135661604,
+          "trades": 5,
+          "quotePrice": 0.000005140944271668588,
+          "maximum_price": 0.000005229463394085428,
+          "minimum_price": 0.000005070282191817456,
+          "median_price": 0.0000051599130284822605,
+          "open_price": "5.070282191817456e-06",
+          "close_price": "5.229463394085428e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 04:30:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 144600.93333333332,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.7317797292312724,
+          "trades": 4,
+          "quotePrice": 0.000005060684688281905,
+          "maximum_price": 0.000005104640875639454,
+          "minimum_price": 0.000005033544033829421,
+          "median_price": 0.000005082902655173219,
+          "open_price": "5.082902655173219e-06",
+          "close_price": "5.033544033829421e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 04:25:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 116440.93333333332,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.5997920991130556,
+          "trades": 4,
+          "quotePrice": 0.000005151041665013469,
+          "maximum_price": 0.000005186238023687106,
+          "minimum_price": 0.000005125646169518382,
+          "median_price": 0.0000051664490977511055,
+          "open_price": "5.186238023687106e-06",
+          "close_price": "5.1467376966519195e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 04:20:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 37448.630642107026,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.19491003049578975,
+          "trades": 1,
+          "quotePrice": 0.0000052047305109371355,
+          "maximum_price": 0.0000052047305109371355,
+          "minimum_price": 0.0000052047305109371355,
+          "median_price": 0.0000052047305109371355,
+          "open_price": "5.2047305109371355e-06",
+          "close_price": "5.2047305109371355e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 04:10:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 14603.1,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.07573498884271795,
+          "trades": 1,
+          "quotePrice": 0.000005186226817779646,
+          "maximum_price": 0.000005186226817779646,
+          "minimum_price": 0.000005186226817779646,
+          "median_price": 0.000005186226817779646,
+          "open_price": "5.186226817779646e-06",
+          "close_price": "5.186226817779646e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 04:05:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 116175.68571528296,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.5971659410576142,
+          "trades": 1,
+          "quotePrice": 0.00000514019725711898,
+          "maximum_price": 0.00000514019725711898,
+          "minimum_price": 0.00000514019725711898,
+          "median_price": 0.00000514019725711898,
+          "open_price": "5.14019725711898e-06",
+          "close_price": "5.14019725711898e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 04:00:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 41292.60587169528,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.209993715,
+          "trades": 1,
+          "quotePrice": 0.0000050855040646379685,
+          "maximum_price": 0.0000050855040646379685,
+          "minimum_price": 0.0000050855040646379685,
+          "median_price": 0.0000050855040646379685,
+          "open_price": "5.0855040646379685e-06",
+          "close_price": "5.0855040646379685e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 03:55:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 40009,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.20235053497402855,
+          "trades": 1,
+          "quotePrice": 0.000005057625408633771,
+          "maximum_price": 0.000005057625408633771,
+          "minimum_price": 0.000005057625408633771,
+          "median_price": 0.000005057625408633771,
+          "open_price": "5.057625408633771e-06",
+          "close_price": "5.057625408633771e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 03:45:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 74132.12635444368,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.37206016,
+          "trades": 1,
+          "quotePrice": 0.00000501887883562236,
+          "maximum_price": 0.00000501887883562236,
+          "minimum_price": 0.00000501887883562236,
+          "median_price": 0.00000501887883562236,
+          "open_price": "5.01887883562236e-06",
+          "close_price": "5.01887883562236e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 03:40:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 148635.89200291352,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.7349467815571146,
+          "trades": 3,
+          "quotePrice": 0.000004944611773465244,
+          "maximum_price": 0.000004982543282452912,
+          "minimum_price": 0.000004907718161710361,
+          "median_price": 0.000004945339929067005,
+          "open_price": "4.907718161710361e-06",
+          "close_price": "4.982543282452912e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 03:35:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 199959.84638752858,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.9661222636529746,
+          "trades": 3,
+          "quotePrice": 0.000004831581345489727,
+          "maximum_price": 0.000004849496605539889,
+          "minimum_price": 0.000004769352081152824,
+          "median_price": 0.00000478702760986941,
+          "open_price": "4.769352081152824e-06",
+          "close_price": "4.849496605539889e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 03:30:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 23104.073272919893,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.11,
+          "trades": 1,
+          "quotePrice": 0.0000047610652329834045,
+          "maximum_price": 0.0000047610652329834045,
+          "minimum_price": 0.0000047610652329834045,
+          "median_price": 0.0000047610652329834045,
+          "open_price": "4.7610652329834045e-06",
+          "close_price": "4.7610652329834045e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 03:25:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 307602.4587649113,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 1.433402687383379,
+          "trades": 1,
+          "quotePrice": 0.00000465991947248664,
+          "maximum_price": 0.00000465991947248664,
+          "minimum_price": 0.00000465991947248664,
+          "median_price": 0.00000465991947248664,
+          "open_price": "4.65991947248664e-06",
+          "close_price": "4.65991947248664e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 03:10:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 186532.93333333332,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.8580872959875039,
+          "trades": 4,
+          "quotePrice": 0.000004600191937442524,
+          "maximum_price": 0.000004650819292643864,
+          "minimum_price": 0.000004573346994322404,
+          "median_price": 0.000004628579355987005,
+          "open_price": "4.650819292643864e-06",
+          "close_price": "4.606438708925059e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 03:05:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 4470422.826666666,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 29.306083356113763,
+          "trades": 32,
+          "quotePrice": 0.0000065555506699051115,
+          "maximum_price": 0.000009217622367218798,
+          "minimum_price": 0.000004690970256192985,
+          "median_price": 0.000006423958551675774,
+          "open_price": "8.980614537461487e-06",
+          "close_price": "4.690970256192985e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 03:00:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 1735322.7999999998,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 19.03890716973092,
+          "trades": 12,
+          "quotePrice": 0.0000109713922791373,
+          "maximum_price": 0.000013015754601198637,
+          "minimum_price": 0.000009467680143373251,
+          "median_price": 0.000011193017378088126,
+          "open_price": "1.3015754601198637e-05",
+          "close_price": "9.724348650782399e-06"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 02:10:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 1521.8805610821078,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.01994,
+          "trades": 1,
+          "quotePrice": 0.000013102210850122165,
+          "maximum_price": 0.000013102210850122165,
+          "minimum_price": 0.000013102210850122165,
+          "median_price": 0.000013102210850122165,
+          "open_price": "1.3102210850122165e-05",
+          "close_price": "1.3102210850122165e-05"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 02:00:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 53896.100000000006,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 0.7019187172881878,
+          "trades": 2,
+          "quotePrice": 0.00001302355304536298,
+          "maximum_price": 0.000013050876473203088,
+          "minimum_price": 0.000012974752483189433,
+          "median_price": 0.000013050876473203088,
+          "open_price": "1.2974752483189433e-05",
+          "close_price": "1.3050876473203088e-05"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 01:55:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 86807.3,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 1.1134780550547456,
+          "trades": 3,
+          "quotePrice": 0.00001282700942264931,
+          "maximum_price": 0.000012892329876949984,
+          "minimum_price": 0.000012734523652420988,
+          "median_price": 0.000012799374195517917,
+          "open_price": "1.2734523652420988e-05",
+          "close_price": "1.2892329876949984e-05"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 01:50:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 160091.50722650485,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 2,
+          "trades": 1,
+          "quotePrice": 0.000012492855084250709,
+          "maximum_price": 0.000012492855084250709,
+          "minimum_price": 0.000012492855084250709,
+          "median_price": 0.000012492855084250709,
+          "open_price": "1.2492855084250709e-05",
+          "close_price": "1.2492855084250709e-05"
+        },
+        {
+          "timeInterval": {
+            "minute": "2022-04-15 01:25:00"
+          },
+          "baseCurrency": {
+            "symbol": "VALID",
+            "address": "0xae808c96e7cd2ed4c9b7e35dfae5d5c299cfbf00"
+          },
+          "baseAmount": 98225.26666666666,
+          "quoteCurrency": {
+            "symbol": "WBNB",
+            "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          "quoteAmount": 1.2129432494374808,
+          "trades": 2,
+          "quotePrice": 0.00001234858698377146,
+          "maximum_price": 0.000012455677253858175,
+          "minimum_price": 0.000012327091029863091,
+          "median_price": 0.000012455677253858175,
+          "open_price": "1.2455677253858175e-05",
+          "close_price": "1.2455677253858175e-05"
+        }
+      ]
+    }
+  }

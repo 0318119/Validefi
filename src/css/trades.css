@@ -1,0 +1,519 @@
+
+.table_trades{
+  background: hsla(0,0%,100%,.05);
+  padding: 15px 15px;
+}
+.truncate {
+  width: 250px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.btns_lengends{
+  /* width: 20%; */
+  display: inline-flex;
+  padding: 10px;
+}
+.btns_lengends button{
+  border: none;
+  padding: 9px 30px;
+  margin: 0;
+  font-size: 20px;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+}
+.btns_lengends button.buy{
+  color: white !important;
+  background-color: #07b707 !important;
+}
+.btns_lengends button.sell{
+  color: #b10b0b !important;
+  background-color: transparent !important;
+  border: 1px solid !important;
+}
+.trades_bg {
+  background: #131722 !important;
+  padding: 15px;
+}
+.table_trades .flex_box_table {
+  display: inline-flex;
+  flex-direction: row;
+  width: 100%;
+  background: #131722;
+  margin-top: 47px;
+  border-bottom: 1px solid #8080803b;
+}
+.table_trades .flex_box_table h3 {
+  color: #ecde84;
+  letter-spacing: 3px;
+  font-weight: 600;
+  font-size: 25px;
+  padding: 17px 0 0 0;
+  text-transform: capitalize;
+  width: 85%;
+  padding-left: 16px;
+}
+.green{
+  color: #07b707 !important;
+  font-weight: bolder;
+}
+.red{
+  color: #b10b0b !important;
+  font-weight: bolder;
+}
+.table_trades .flex_box_table button{
+  border: none;
+  outline: none;
+  padding: 5px 15px;
+  display: block;
+  margin: 19px 10px;
+  font-size: 18px;
+  border-radius: 8px;
+}
+.table_trades .flex_box_table button.buy_btn{
+  color: #fff;
+  background-color: #198754;
+  border-color: #198754;
+}
+.table_trades .flex_box_table button.sale_btn{
+  background: transparent;
+  border: 1px solid #dc3545;
+  color: #dc3545;
+}
+.table_trades .flex_box_table button.sale_btn:hover{
+  color: white;
+  transition: all .4s ease;
+  background: #dc3545;
+}
+.table_trades table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 0.3em;
+  overflow: scroll;
+  height: 555px;
+  display: block;
+  background: #131722;
+}
+.table_trades table::-webkit-scrollbar-track{
+  background-color: #131722;
+}
+
+.table_trades table::-webkit-scrollbar{
+	width: 6px;
+  padding: 50px;
+	background-color: #131722;
+}
+
+.table_trades table::-webkit-scrollbar-thumb{
+	background-color: white;
+}
+
+.table_trades thead {
+ visibility: hidden;
+ position: absolute;
+ width: 0;
+ height: 0;
+}
+.table_trades th {
+  color: #fff;
+}
+.table_trades th, td {
+  padding: 1em;
+}
+.buy{
+  color: green !important;
+}
+.table_trades tr, td {
+  display: block;
+}
+
+.table_trades td {
+  position: relative;
+}
+
+.table_trades td::before {
+  content: attr(data-label);
+  position: absolute;
+  left: 0;
+  padding-left: 1em;
+  font-weight: 600;
+  font-size: .9em;
+  text-transform: uppercase;
+}
+
+.table_trades tr {
+  background: hsla(0,0%,100%,.05);
+  text-align: right;
+}
+
+.table_trades tr:last-of-type {
+  margin-bottom: 0;
+}  
+  .table_trades thead {
+    visibility: visible;
+    position: relative;
+  }
+  
+  .table_trades th {
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 15px;
+    letter-spacing: 2px;
+  }
+  
+  .table_trades tr {
+    display: table-row;
+    border: none;
+    border-radius: 0;
+    text-align: left;
+  }  
+  .table_trades td {
+    display: table-cell;
+  }
+  
+ .table_trades td::before {
+    content: none;
+  }
+  
+  .table_trades td {
+    color: white;
+    border-radius: 0;
+    font-size: 16px;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    text-align: center;
+    text-align: left;
+    width: auto;
+  }
+  .table_trades tr:hover {
+    background: #8080806b;
+    /* transition: all .9s cubic-bezier(0.25, 0.1, 0.53, 0.84); */
+}
+.date_table{
+  width: 45% !important;
+}
+.maker_table{
+  width: 52% !important;
+}
+
+  .transform{
+    text-align: center !important;
+  }
+  /* .Trades_search{
+    width: 50%;
+    margin: auto;
+    display: block;
+  } */
+  .Trades_search input{
+    width: 100%;
+    margin: auto;
+    display: inline-block;
+    height: 55px;
+    border: none;
+    background: black;
+    padding-left: 30px;
+    color: white;
+    border-radius: 20px 20px 0 0px;
+  }
+  .Trades_search input:focus{
+    outline: none;
+    border: none;
+  }
+  .Trades_search input::placeholder{
+    color: white;
+  }
+  .Trades_search .search_max  > div svg{
+    position: absolute;
+    color: white;
+    height: 35px;
+    right: 8px;
+    top: 10px;
+    padding: 4px 10px;
+    border-radius: 22px;
+  }
+  .Trades_search .search_max  > div svg:hover{
+    cursor: pointer;
+  }
+  #svg_active{
+    display: block;
+  }
+  #svg_not_active{
+    display: none;
+  }
+  /* .Trades_search button{
+    border: none;
+    color: white;
+    font-weight: 500;
+    background: black;
+    border-left: 1px solid grey !important;
+    letter-spacing: 2px;
+    width: 20%;
+    line-height: 53px;
+    border-radius: 0 20px 20px 0;
+  } */
+  #input_active{
+    border-radius:  20px 0 0 0px;
+  }
+  #input_not_active{
+    border-radius:  20px 0 0 20px;
+  }
+  #btn_active{
+    border-radius: 0 20px 0px 0;
+  }
+  #btn_not_active{
+    border-radius: 0 20px 20px 0;
+  }
+  .li_pairs{
+    margin-top: 20px;
+    width: 70%;
+  }
+  .li_pairs .li_div{
+    display: inline-flex;
+    color: white;
+    list-style: none;
+    margin-bottom: 40px;
+  }
+  .li_pairs .li_div .inner_li{
+    color: grey;
+    letter-spacing: 1px;
+    padding-left: 20px;
+    overflow: clip;
+    width: 177px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .icons_info{
+    margin-top: 190px;
+    width: 100%;
+    display: inline-flex;
+  }
+  .icons_info .img_box{
+    display: flex;
+    align-items: center;
+  }
+  .icons_info .img_box img{
+    height: 57px;
+    border-radius: 52px;
+  }
+  .icons_info .img_box  li.wrapper_name{
+    list-style: none;
+    padding-left: 13px;
+    color: white;
+    font-weight: 500;
+    letter-spacing: 2px;
+    font-size: 23px;
+  }
+  .coin_names{
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    right: 42px;
+}
+.coin_names .value_names{
+  display: -webkit-inline-box;
+  list-style: none;
+  font-size: 30px;
+}
+.coin_names li.value_names li{
+  margin: 0 20px;
+  color: white !important;
+  font-size: 40px;
+  position: relative;
+  top: 10px;
+  margin-bottom: 20px;
+}
+.coin_names  > span{
+  display: block;
+  position: absolute;
+  right: 21px;
+  /* line-height: 53px;
+  width: 80px;
+  text-overflow: clip;
+  white-space: nowrap;
+  overflow: hidden; */
+}
+
+@media screen and (max-width:1500px) {
+    .Trades_search input {
+        width: 100%;
+    }
+    .Trades_search button {
+        width: 20%;
+    } 
+}
+@media screen and (max-width:993px) {
+  .Trades_search input {
+    width: 100%;
+  }
+  .search_max {
+    width: 100% !important;
+  }
+  .next_search {
+    width: 100% !important;
+  }
+  .Trades_search{
+    position: relative !important;
+  }
+  .icons_info {
+    margin-top: 20px;
+  }
+  .coin_names li.value_names li {
+    font-size: 25px;
+  }
+}
+@media screen and (max-width:678px){
+    .table_trades th {
+      font-size: 10px;
+    }
+    .table_trades td {
+      font-size: 13px;
+    }
+}
+@media only screen and (max-width: 600px){
+  .Trades_search input {
+      position: relative;
+      top: 22px;
+      padding: 0 110px 0px 7px;
+  }
+  .Trades_search .search_max > div svg {
+    top: 31px;
+   }
+}
+@media screen and (max-width:602px){
+  .btns_lengends {
+    width: 77%;
+    padding: 0%;
+  }
+  .coin_names{
+    position: unset !important;
+    display: unset !important;
+  } 
+    .coin_names .value_names {
+        font-size: 18px;
+    } 
+    .li_pairs {
+      width: 100%;
+    }
+    .coin_names li.value_names li {
+      top: -4px !important;
+  }
+  .coin_names > span {
+    line-height: 77px;
+    display: inline-flex;
+    position: relative;
+    top: -5px;
+    right: 0%;
+  }
+  .icons_info {
+    display: block;
+  }
+  .li_pairs {
+    margin-top: -14px;
+    width: 100%;
+  }
+  .icons_info .img_box img {
+    height: 37px;
+  }
+  .icons_info .img_box li.wrapper_name {
+    font-size: 18px;
+  }
+}
+@media screen and (max-width:500px){
+    .table_trades .flex_box_table button {
+      padding: 5px 14px;
+      font-size: 12px;
+      border-radius: 6px;
+    }
+
+    .table_trades td {
+        font-size: 10px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .table_trades table {
+      height: 430px;
+    }
+
+    .table_trades {
+      background: hsla(0,0%,100%,.05);
+      padding: 0px 5px !important;
+      padding-bottom: 15px !important;
+      width: 100%;
+    }
+    .custom_container{
+      padding-left: unset !important;
+      padding-right: unset !important;
+    }
+    .icons_info .img_box {
+      justify-content: center;
+    }
+    .icons_info {
+      text-align: center;
+     }
+     .coin_names .value_names {
+      margin-top: 10px;
+     }
+    .coin_names li.value_names li {
+      padding: 0;
+      margin: 0;
+    }
+    .coin_names > span {
+       line-height: 40px;
+       top: 0px;
+    }
+    .li_pairs .li_div .inner_li {
+        padding: 0;
+     }
+    .li_pairs .li_div {
+        margin-bottom: 0px;
+    }
+    .li_pairs {
+      margin-top: 0px;
+      width: 100%;
+      text-align: center;
+    }
+    .li_pairs .li_div .inner_li {
+      color: #ffffffad;
+    }
+}
+@media screen and (max-width:381px){
+    .table_trades .flex_box_table h3 {
+      font-size: 20px;
+   }
+   .table_trades .flex_box_table button {
+    margin: 14px 3px;
+   }
+   .Trades_search button {
+      font-size: 11px;
+    }
+    .Trades_search input {
+      font-size: 11px;
+      letter-spacing: 1px;
+    }
+    .li_pairs .li_div {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+  }
+}
+@media screen and (max-width: 322px){
+    .btns_lengends {
+      width: 112%;
+  }
+}
+@media screen and (max-width: 340px){
+  /* .coin_names > span {
+    line-height: 21px;
+    display: inline-block !important;
+  } */
+  .coin_names > span {
+    font-size: 15px;
+  }
+  .coin_names li.value_names li {
+    font-size: 15px;
+  }
+  .li_pairs{
+    margin-top: 0 !important;
+  }
+}

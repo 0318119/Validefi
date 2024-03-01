@@ -1,0 +1,749 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+.banner-clss{
+    background-image: url('../images/banner-bg.png');
+    margin-top: 131px;
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    align-items: center;
+    display: flex;
+}
+/* .btn_two a{
+    color: #443107;
+}
+.scd_color a{
+    color: #FFD475 !important
+}
+.scd_btn a{
+    color: unset !important;
+}*/
+.scd_btn{
+    background-color:linear-gradient(unset)  !important;
+    background: #0b2251 !important;
+    color: white !important;
+} 
+.validate small{
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+.validate h3 {
+    color: #eda300;
+    font-family: 'Inter', sans-serif;
+    font-size: 25px;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+.validate .main_title_banner .banner_h4{
+    color: white;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    font-weight: 700;
+    line-height: 85px;
+    font-size: 55px;
+    font-family: 'Inter', sans-serif;
+}
+
+
+.validate .main_title_banner .banner_phara{
+    color: white;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+}
+ .btn_banner .link_btn_one button{
+    font-family: 'Inter', sans-serif;
+    background: linear-gradient(90deg,#c09434,#caa344,#d3b154,#ddc064,#e7cf75,#e7cf75,#e7cf75,#e7cf75,#ddc064,#d3b154,#caa344,#c09434);
+    color: #443107;
+    border: none;
+    padding: 10px 50px;
+    margin: 10px 30px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    font-size: 20px;
+    transition: all 0.5s;
+    overflow: hidden;
+    position: relative;
+    /* width: 20%;
+    line-height: 49px; */
+}
+ .btn_banner .link_btn_one button:hover{
+    color: #fff;
+    animation: swoosh 0.4s ease-out 0.2s;
+}
+
+ .btn_banner > .link_btn_one button:before,
+.btn_banner > .link_btn_one button:after{
+    content: "";
+    background-color: #8f939396;
+    height: 100%;
+    width: 50%;
+    opacity: 1;
+    position: absolute;
+    top: 0;
+    left: -100%;
+    z-index: 0;
+    transition: all 0.4s ease-out 0.1s;
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+}
+
+ .btn_banner .link_btn_one button:after{
+    opacity: 0;
+    transform: scale(0.9,0.7);
+    left: 0;
+    transition: all 0.3s ease-out 0s;
+}
+
+.btn_banner .link_btn_one button:hover:before{ left: 100%; }
+
+.btn_banner .link_btn_one button:hover:after{
+    opacity: 0.3;
+    transform: scale(1);
+}
+.col-lg-6.video > div{
+    width: unset !important;
+    height: unset !important;
+    /* padding: 0px 50px; */
+}
+/* .col-lg-6.video > div > video{
+    border: 6px solid white;
+} */
+.section{
+    background: white;
+    margin-top: 40px;
+    padding: 40px 0;
+}
+.sectionMargin{
+    background: white;
+    padding: 40px 0;
+}
+.token_sec_img > div > img{
+    width: 90%;
+    position: relative;
+    float: right;
+    padding-right: 57px;
+}
+.token_sec_text .token_head .head{
+    font-family: 'Inter', sans-serif;
+    color: #c19636;
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    display: inline-block;
+    padding-left: 15px;
+    text-transform: uppercase;
+}
+.token_sec_text .token_head{
+    display: flex;
+    align-items: flex-start;
+}
+.token_sec_text .token_head img{
+    object-fit: contain;
+    position: relative;
+    top: -5px;
+}
+.token_sec_text .token_head .head .border_bnottom{
+    display: block;
+    height: 4px;
+    width: 58%;
+    background: #c19636;
+    float: right;
+    position: relative;
+    top: 10px;
+    right: -71px;
+}
+.token_sec_text .heading {
+    font-family: 'Inter', sans-serif;
+    margin-top: 8px;
+    font-size: 31px;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    font-weight: 700;
+    color: #404040;
+    line-height: 38px;
+    padding-right: 125px;
+    text-align: left;
+}
+.token_sec_text .para_text{
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    padding-right: 108px;
+    color: #404040;
+    line-height: 30px;
+    font-weight: 300;
+}
+
+
+
+/* // SERVICES BOXES // */
+/* .our_services{
+    background-image: url('../images/our_services_bg.jpg');
+    display: block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+} */
+.services_btn{
+    background: #0b2251 !important;
+    color: #ffd475 !important;
+    font-weight: 400 !important;
+}
+.custom_conatiner{
+    width: 90% !important;
+    padding: auto;
+}
+.services_heading{
+    color: #c19636;
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 45px;
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+}
+.services_heading .border_head{
+    position: relative;
+    top: 25px;
+}
+.services_heading .left{
+    display: block;
+    height: 5px;
+    width: 8%;
+    background: #c19636;
+    margin-right: 20px;
+}
+.services_heading .right{
+    display: block;
+    height: 5px;
+    width: 8%;
+    background: #c19636;
+    margin-left: 20px;
+}
+.serviceBox{
+    text-align: center;
+    background: white;
+    padding: 125px 42px 42px 42px;
+    margin: 0 0px;
+    border-radius: 20px;
+}
+.serviceBox:hover{
+    box-shadow: 1px -6px 10px #80808075;
+    transition: all .5s linear;
+}
+
+.service-icon{
+    color: #fff;
+    font-size: 78px;
+    background-color: #c19636;
+    width: 140px;
+    height: 140px;
+    margin: 0 auto 10px;
+    border-radius: 68px;
+    text-align: center;
+    display: block;
+    position: relative;
+    top: 75px;
+    border: 6px solid white;
+}  
+.service-icon span > img{
+    height: 60px;
+}
+.serviceBox .title{
+    color: #0b2251;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin: 0 0 5px;
+    letter-spacing: 2px;
+    line-height: 25px;
+}
+
+.serviceBox .description{
+    font-family: 'Inter', sans-serif;
+    color: black;
+    line-height: 24px;
+    letter-spacing: 1px;
+    font-size: 15px;
+    padding-top: 20px;
+    font-weight: 600;
+}
+/* // NFT SECTION  // */
+.section_divider{
+    width: 100%;
+    height: 30px;
+    background-color: white;
+    margin-top: 50px;
+}
+.banner_nft_bg{}
+.nftBanner{
+    background-image: url('../images/nft_banners.jpg');
+    height: 500px;
+    display: block;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* margin-top: 100px; */
+}
+/* // SUBSCRIPE SECTION // */
+.subscripe h4{
+    font-family: 'Inter', sans-serif;
+    color: #0b2251;
+    letter-spacing: 1px;
+    font-weight: 800;
+    font-size: 30px;
+    text-align: center;
+}
+.subscripe p{
+    font-family: 'Inter', sans-serif;
+    color: black;
+    font-size: 17px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+.subcripe_field > div{
+    /* display: inline-flex; */
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.subcripe_field > div > input{
+    width: 70%;
+    height: 65px;
+    padding: 20px;
+}
+.subcripe_field .btn_banner .btn_one{
+    border: none;
+    padding: 17px 42px;
+    letter-spacing: 1px;
+    margin: 0;
+    border-radius: 0;
+    color: white;
+    background: #0b2251;
+    margin: 0 16px;
+    letter-spacing: 4px;
+}
+
+/* // QR CODE SECTION // */
+/* .qr-code-container{
+    display: flex;
+    justify-content: center;
+    }
+    .Qr-code{
+        display: flex;
+        margin-bottom: 7px;
+        background: #a19c9c26;
+        justify-content: center;
+        border-radius: 14px;
+        padding: 16px;
+    }
+    .QR-image{
+        width: 85px !important;
+        height: 85px !important;
+    
+    }
+    .Qr-code .QR-text{
+        margin-top: 30px;
+        margin-left: 17px;
+        font-size: 22px;
+    
+    }
+    .Qr-code .QR-logo{
+        margin-left: 40px;
+        margin-top: 12px;
+    }
+.mobile_vedio_Section img{
+    display: none;
+} */
+/* // RESPONSIVE AREA // */
+/* @media screen and (max-width:1700px){
+    .col_one{
+        max-width: unset !important;
+        flex: unset !important;
+        width: 30%;
+    }
+    .col_large{
+        max-width: unset !important;
+        flex: unset !important;
+        width: 30%;
+    }
+} */
+@media screen and (max-width: 1500px) {
+    .col-lg-6.video > div {
+        padding: 0px 0px;
+    }
+    .banner-clss {
+        margin-top: 150px;
+        height: 450px;
+    }
+    .validate .main_title_banner .banner_h4 {
+        line-height: 45px;
+        font-size: 40px;
+    }
+    .custom_conatiner {
+        width: 100% !important;
+    }
+    .nftBanner{
+        height: 350px;
+    }
+    /* .col_one{
+        width: 32%;
+    }
+    .col_large{
+        width: 32%;
+    } */
+}
+@media screen and (max-width:1300px){
+    .serviceBox {
+        padding: 100px 30px 30px 30px;
+    }
+    .services_btn{
+        width: 100%;
+        padding: 0 !important;
+        margin: 0% !important;
+       line-height: 65px;
+    }
+    .serviceBox .title {
+        font-size: 17px;
+    }
+}
+@media only screen and (max-width: 1400px){
+   .validate .main_title_banner .banner_h4 {
+      line-height: 45px;
+      font-size: 35px;
+   }
+}
+@media screen and (max-width: 1200px){
+    .token_sec_text .token_head .head {
+        font-size: 30px;
+    }
+    .token_sec_text .heading {
+        margin-top: 28px;
+        font-size: 25px;
+        line-height: 29px;
+        padding-right: unset !important;
+    }
+    .token_sec_text .para_text {
+        font-size: 16px;
+        padding-right: 0px;
+        line-height: 27px;
+    }
+    .serviceBox {
+        padding: 103px 5px 42px 5px;
+    }
+    .serviceBox .title {
+        font-size: 20px;
+        margin: 0 0 5px;
+        letter-spacing: 1px;
+        line-height: 26px;
+    }
+    .serviceBox .description {
+        line-height: 20px;
+        letter-spacing: 1px;
+        font-size: 14px;
+    }
+    .services_btn {
+        width: 85%;
+    }
+    .nftBanner {
+        height: 289px;
+    }    
+}
+
+@media screen and (max-width: 1185px){
+    .Read_more{
+        padding: 10px 30px !important;
+    }
+}
+
+@media only screen and (max-width: 992px){
+    .banner-clss {
+        margin-top: 242px;
+    }
+    .token_sec_text .heading {
+        font-size: 20px;
+        line-height: 23px;
+        padding-right: unset !important;
+    }
+    .token_sec_img > div > img {
+        display: none;
+    }
+    .col_one{
+        width: 50%;
+    }
+    .col_large {
+        width: 50%;
+    }
+    .Qr-code{
+        width: 70%;
+    }
+    .mobile_vedio_Section img{
+        display: block;
+        margin: auto;
+        width: 90%;
+    }
+    .nftBanner {
+        height: 262px;
+        background-size: cover;
+    }
+    .col-lg-6.video > div {
+        padding: 0px 50px 50px 0;
+    }
+}
+@media only screen and (max-width: 990px){
+    .serviceBox{ margin: 0 0 40px; }
+}
+@media only screen and (max-width: 768px){
+    .banner-clss {
+        margin-top: 310px;
+    }
+    .banner_h4 {
+        line-height: 40px !important;
+        font-size: 30px !important;
+    }   
+    .serviceBox .title {
+        font-size: 17px;
+        line-height: 25px;
+    } 
+    .btn_banner .link_btn_one button {
+        padding: 10px 50px;
+        font-size: 17px;
+    }
+    .col_one{
+        width: 80%;
+        margin: auto;
+    }
+    .col_large{
+        width: 80%;
+        margin: auto;
+    }
+    .Qr-code{
+        width: 90%;
+    }
+    /* .our_services {
+        height: 2050px;
+    } */
+    .serviceBox{
+      margin: 0 0 0px; 
+    }
+    .nftBanner {
+        height: 370px;
+    }
+}
+
+@media screen and (max-width:700px){
+    .banner-clss {
+        margin-top: 280px;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .banner_h4 {
+        line-height: 32px !important;
+        font-size: 22px !important;
+    } 
+    .validate .main_title_banner .banner_phara {
+        font-size: 16px;
+    }
+    .btn_banner .link_btn_one button {
+        padding: 10px 14px;
+        margin: 11px 6px;
+        font-size: 13px;
+    }
+    *, ::after, ::before {
+        box-sizing: border-box;
+        overflow-x: clip !important;
+    }
+    .banner-clss {
+        margin-top: 111px;
+    }
+    .services_heading {
+        font-size: 30px !important;
+        margin-top: 30px !important;
+    }
+    .services_heading .right,
+    .services_heading .left {
+        width: 25%;
+    }
+    .services_btn {
+        margin-bottom: 30px !important;
+    }
+    .subscripe h4 {
+        font-size: 25px;
+    }
+    .subcripe_field > div {
+        display: block;
+        width: 100%;
+    }
+    .subcripe_field > div > input {
+        width: 100%;
+    }
+    /* .subcripe_field .btn_banner .btn_one {
+        margin: 9px auto;
+        display: block;
+    } */
+    .serviceBox {
+        margin: 0 0 0px !important;
+    }
+    .serviceBox {
+        padding: 89px 5px 8px 0px !important;
+    }
+    .service-icon {
+        color: #fff;
+        font-size: 65px;
+        background-color: #c19636;
+        width: 120px;
+        height: 120px;
+        margin: 0 auto 2px;
+        border-radius: 68px;
+        display: block;
+        position: relative;
+        top: 65px;
+    }
+    .service-icon span > img {
+        height: 40px;
+    }    
+    .serviceBox .title {
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .serviceBox .description {
+        line-height: 24px;
+        letter-spacing: 1px;
+        font-size: 14px;
+        padding: 4px 37px 0px 37px;
+    }
+    /* .our_services {
+        height: 1780px;
+    } */
+    .banner-clss {
+        margin-top: 200px;
+    }
+}
+@media screen and (max-width:500px){
+    .section {
+        margin-top: 30px;
+    }
+    .nftBanner {
+     height: 300px;
+    }
+}
+@media only screen and (max-width: 480px){
+    .banner_h4 {
+        line-height: 25px !important;
+        font-size: 19px !important;
+    }
+    .banner_phara {
+        font-size: 14px;
+    }
+    .validate small {
+        color: white;
+        font-size: 25px;
+    }    
+    .banner-clss {
+        margin-top: 180px;
+    }
+    .token_sec_text .heading {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .token_sec_text .para_text {
+        line-height: 23px;
+    }
+    .col_one{
+        width: 100%;
+    }
+    .col_large{
+        width: 100%;
+        margin: auto;
+    }
+    .service-icon {
+        font-size: 52px;
+        width: 100px;
+        height: 100px;
+        top: 55px;
+    }
+    .serviceBox {
+        padding: 66px 5px 8px 0px !important;
+    }
+    .services_btn {
+        width: unset !important;
+        padding: 0 85px !important;
+    }
+    .subscripe h4 {
+        font-size: 15px;
+    }
+    .subscripe p {
+        font-size: 13px;
+        line-height: 17px;
+    }
+    .subcripe_field > div > input {
+        height: 50px;
+    }
+    .btn_one {
+        margin: 9px 0 !important;
+    }
+    .subcripe_field .btn_banner .btn_one {
+        padding: 12px 30px;
+    }
+
+    .btn_banner{
+        display: flex;
+        justify-content: center;
+    }
+    /* .our_services {
+        height: 1636px;
+    }     */
+    .mobile_vedio_Section img {
+        display: block;
+        margin: auto;
+        width: 100%;
+    }
+    .nftBanner {
+        height: 280px;
+    }
+    .col-lg-6.video > div {
+        padding: 0;
+    }
+    .nftBanner {
+        height: 250px;
+    }
+}
+/* @media only screen and (max-width: 425px){
+    .our_services {
+        height: 1680px;
+    }
+}
+@media only screen and (max-width: 380px){
+    .our_services {
+        height: 1730px;
+    }
+}
+@media only screen and (max-width: 355px){
+    .our_services {
+        height: 1770px;
+    }
+}
+@media only screen and (max-width: 335px){
+    .our_services {
+        height: 1800px;
+    }
+}
+@media only screen and (max-width: 330px){
+    .our_services {
+        height: 1850px;
+    }
+}
+@media only screen and (max-width: 315px){
+    .our_services {
+        height: 1900px;
+    }
+} */

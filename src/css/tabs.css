@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+.Tabs{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    padding: 9px 4px;
+}
+.tabs-row{
+    width: 90%;
+}
+.main-tabs > TabPane{
+   background-color: black;
+}
+
+.tab-text{ 
+    font-family: "Exo 2",sans-serif;
+    font-size: 2rem;
+    color: #666;
+    font-weight: 600;
+    padding: 4px 0px;
+    border-radius:12px;
+    margin: 10px 0;
+}
+.ant-collapse > .ant-collapse-item > .ant-collapse-header {
+    font-size: 16px;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}
+
+.tabs-content{
+    font-family: "Exo 2",sans-serif;
+    font-size: 15px;
+    padding: 20px;
+    color: black;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+.ant-tabs-tab-btn {
+    font-size: 18px !important;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+.ant-tabs-top > .ant-tabs-nav::before, .ant-tabs-top > div > .ant-tabs-nav::before {
+    border: 3px solid #0B2251;
+}
+.ant-tabs-ink-bar {
+    position: unset;
+    background: unset !important;
+}
+.ant-tabs-tab + .ant-tabs-tab:hover{
+    transition: all .5s linear;
+    background-color: #0B2251;
+    border: 4px;
+    color: white !important;
+    border-radius: 12px 12px 0px 0;
+    padding: 0px 10px;
+}
+div.ant-tabs-tab:hover{
+
+    transition: all .5s linear;
+    background-color: #0B2251;
+    color: white !important;
+     border-radius: 4px;
+     padding: 0px 8px;
+    
+   
+}
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+    color: black !important;
+    text-shadow: 0 0 0.25px currentcolor;
+}
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn:hover{
+    transition: all .5s linear;
+    background-color: #0B2251 !important;
+    border-radius: 2px;
+    color: white !important;
+}
+.anticon svg {
+    width: 25px;
+    height: 18px;
+}
+
+@media screen and (max-width:768px) {
+    .ant-tabs-tab-btn {
+        font-size: 18px !important;
+        font-family: 'Lato', sans-serif;
+    }
+    .ant-collapse > .ant-collapse-item > .ant-collapse-header {
+        font-size: 13px;
+        text-transform: capitalize;
+        letter-spacing: 1px;
+        padding: 12px 0px;
+        padding-left: 0;
+    }  
+}
+@media screen and (max-width:600px) {
+    .ant-collapse > .ant-collapse-item > .ant-collapse-header {
+        padding-left: 1px;
+    }  
+    .anticon svg {
+        width: 13px;
+        height: 11px;
+        position: relative;
+        top: 10px;
+    }
+}
+@media screen and (max-width:376px){
+    .tabs-content {
+        font-size: 13px;
+        padding: 0%;
+    }
+}

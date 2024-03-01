@@ -1,0 +1,215 @@
+
+.fliters_page_banner{
+    background-image: url(../images/front-banner.gif);
+    height: 100px;
+    background-repeat: no-repeat;
+    width: 85%;
+    margin-top: 10px;
+    background-size: cover;
+    margin-left: 173px;
+}
+  .pairs_explorer table {
+    width: 85%;
+    border-collapse: separate;
+    border-spacing: 2px;
+    overflow: scroll;
+    height: 755px;
+    display: block;
+    background: #131722;
+    margin-left: 182px;
+    margin-top: 45px;
+  }
+
+  .pairs_explorer thead th {
+    text-align: left;
+    border-bottom: 2px solid black;
+  }
+  
+  .pairs_explorer thead button {
+    border: 0;
+    border-radius: none;
+    font-family: inherit;
+    font-weight: 700;
+    font-size: inherit;
+    padding: 0.5em;
+    background: none;
+    margin-bottom: 1px;
+    letter-spacing: 2px;
+  }
+  
+  .pairs_explorer thead button.ascending::after {
+    content: '⇩';
+    display: inline-block;
+    margin-left: 4px;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  .pairs_explorer thead button.descending::after {
+    content: '⇧';
+    display: inline-block;
+    margin-left: 4px;
+    font-size: 14px;
+    font-weight: bold;
+  }
+
+  .pairs_explorer table::-webkit-scrollbar-track{
+    background-color: #131722;
+  }
+  
+  .pairs_explorer table::-webkit-scrollbar{
+      width: 6px;
+    padding: 50px;
+      background-color: #131722;
+  }
+  
+  .pairs_explorer table::-webkit-scrollbar-thumb{
+      background-color: white;
+  }
+  
+  .pairs_explorer th {
+    color: #fff;
+  }
+  .pairs_explorer th, td {
+    padding: 1em;
+  }
+  .buy{
+    color: green !important;
+  }
+  .pairs_explorer tr, td {
+    display: block;
+  }
+  
+  .pairs_explorer td {
+    position: relative;
+  }
+  
+  .pairs_explorer td::before {
+    content: attr(data-label);
+    position: absolute;
+    left: 0;
+    padding-left: 1em;
+    font-weight: 600;
+    font-size: .9em;
+    text-transform: uppercase;
+  }
+  
+  .pairs_explorer tr {
+    background: hsla(0,0%,100%,.05);
+    text-align: right;
+  }
+  
+  .pairs_explorer tr:last-of-type {
+    margin-bottom: 0;
+  }  
+    .pairs_explorer thead {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+        background: #101010;
+    }
+    
+    .pairs_explorer th {
+      text-align: left;
+      text-transform: uppercase;
+      font-size: 15px;
+      letter-spacing: 2px;
+    }
+    
+    .pairs_explorer tr {
+      display: table-row;
+      border: none;
+      border-radius: 0;
+      text-align: left;
+    }  
+    .pairs_explorer td {
+      display: table-cell;
+    }
+    
+   .pairs_explorer td::before {
+      content: none;
+    }
+    
+    .pairs_explorer td {
+      color: white;
+      border-radius: 0;
+      font-size: 16px;
+      letter-spacing: 1px;
+      text-transform: capitalize;
+      text-align: center;
+      text-align: left;
+      width: auto;
+    }
+    .pairs_explorer tr:hover {
+      background: #8080806b;
+      /* transition: all .9s cubic-bezier(0.25, 0.1, 0.53, 0.84); */
+    }
+
+    .PoolVariation{
+      background: #17c671;
+      padding: 7px 3px;
+      margin: auto;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      letter-spacing: 1px;
+      border-radius: 7px;
+    }
+    .PoolVariation:hover{
+      color: white;
+    }
+    .denger_icon img {
+      height: 20px;
+      filter: invert(100%) sepia(0%) saturate(7500%) hue-rotate(157deg) brightness(102%) contrast(102%);
+    }
+    .icon_box{
+      display: inline-flex;
+    }
+    .icon_box > img{
+      height: 18px;
+      filter: invert(85%) sepia(0%) saturate(7521%) hue-rotate(157deg) brightness(102%) contrast(102%);
+      margin: 0 8px;
+      object-fit: fill;
+    }
+
+    .icon_box_action{
+      display: inline-flex;
+    }
+
+    .icon_box_action > img{
+      height: 22px;
+      margin: 0 5px;
+      object-fit: fill;
+    }
+    .icon_box_action > img:nth-child(1){
+      background: white;
+      padding: 1px 2px;
+      border-radius: 10px;
+    }
+    .icon_box_action > img:nth-child(2),img:nth-child(3){
+      border: 2px solid white;
+      border-radius: 12px;
+    }
+    .icon_box_action > img:nth-child(4){
+      height: 20px;
+    }
+    .icon_box_action > img:nth-child(5){
+      filter: invert(103%) sepia(55%) saturate(7500%) hue-rotate(157deg) brightness(102%) contrast(118%);
+      height: 27px;
+      background: inherit;
+      border: 1px solid;
+      padding: 3px;
+      border-radius: 16px;  
+    }
+
+    @media screen and (max-width:1500px){
+        .pairs_explorer table {
+          width: 100%;
+          margin-left: 0;
+        }    
+        .fliters_page_banner {
+          width: 100%;
+          margin-left: 0;
+        }
+    }

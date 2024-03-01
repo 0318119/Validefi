@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="195.358" height="132.51" viewBox="0 0 195.358 132.51">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_132" data-name="Rectangle 132" width="195.358" height="132.51" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2" data-name="Group 2" clip-path="url(#clip-path)">
+    <g id="candlestick_chart" transform="translate(-25.838 12.621)">
+      <g id="Layer_4" transform="translate(1.581)">
+        <line id="Line_152" data-name="Line 152" y1="18.818" transform="translate(0 50.659)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_153" data-name="Line 153" y2="13.248" transform="translate(5.42 61.046)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_154" data-name="Line 154" y2="13.248" transform="translate(10.839 61.046)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_155" data-name="Line 155" y2="14.789" transform="translate(16.259 80.466)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_156" data-name="Line 156" y2="25.091" transform="translate(32.517 71.095)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_157" data-name="Line 157" y2="20.549" transform="translate(54.196 24.464)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_158" data-name="Line 158" y2="15.995" transform="translate(81.492 56.191)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_159" data-name="Line 159" y2="17.689" transform="translate(87.76 61.479)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_160" data-name="Line 160" y2="16.49" transform="translate(100.298 76.246)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_161" data-name="Line 161" y2="18.149" transform="translate(119.103 46.625)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_162" data-name="Line 162" y2="18.149" transform="translate(125.372 59.263)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_163" data-name="Line 163" y2="21.679" transform="translate(169.252 50.207)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_164" data-name="Line 164" y2="13.869" transform="translate(175.521 59.766)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_165" data-name="Line 165" y2="17.058" transform="translate(181.789 51.637)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_166" data-name="Line 166" y2="33.406" transform="translate(131.641 51.085)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_167" data-name="Line 167" y2="29.141" transform="translate(144.178 44.043)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_168" data-name="Line 168" y2="22.243" transform="translate(156.715 19.383)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_169" data-name="Line 169" y2="35.822" transform="translate(150.446 32.945)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_170" data-name="Line 170" y2="40.825" transform="translate(162.984 27.512)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_171" data-name="Line 171" y2="28.326" transform="translate(137.909 47.166)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_172" data-name="Line 172" y2="25.221" transform="translate(106.566 76.246)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_173" data-name="Line 173" y2="27.738" transform="translate(112.835 85.773)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_174" data-name="Line 174" y2="16.089" transform="translate(94.029 70.323)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_175" data-name="Line 175" y2="17.923" transform="translate(68.955 16.816)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_176" data-name="Line 176" y2="41.683" transform="translate(75.223 23.202)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_177" data-name="Line 177" y2="53.363" transform="translate(43.357 47.313)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_178" data-name="Line 178" y2="34.776" transform="translate(48.776 39.219)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_179" data-name="Line 179" y2="11.968" transform="translate(27.098 94.241)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_180" data-name="Line 180" y2="13.968" transform="translate(37.937 82.219)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_181" data-name="Line 181" y2="14.789" transform="translate(21.678 93.282)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_182" data-name="Line 182" y2="17.891" transform="translate(188.058 60.166)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_183" data-name="Line 183" y2="10.434" transform="translate(194.327 67.623)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_184" data-name="Line 184" y1="16.762" transform="translate(200.595 60.166)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_185" data-name="Line 185" y2="11.357" transform="translate(206.864 66.701)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_186" data-name="Line 186" y2="29.57" transform="translate(213.132 56.542)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_187" data-name="Line 187" y1="17.802" transform="translate(219.401 59.127)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_188" data-name="Line 188" y1="28.318" transform="translate(225.67 64.719)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_189" data-name="Line 189" y1="19.872" transform="translate(231.938 84.757)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_190" data-name="Line 190" y2="14.452" transform="translate(238.207 100.263)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_191" data-name="Line 191" y1="29.113" transform="translate(244.475 84.757)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_192" data-name="Line 192" y1="11.592" transform="translate(250.744 84.757)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_193" data-name="Line 193" y1="18.11" transform="translate(257.013 91.38)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_194" data-name="Line 194" y1="14.383" transform="translate(263.281 98.133)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_195" data-name="Line 195" y1="20.196" transform="translate(269.55 72.84)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_196" data-name="Line 196" y2="17.345" transform="translate(275.818 72.379)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_197" data-name="Line 197" y1="24.387" transform="translate(290.577 64.719)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_198" data-name="Line 198" y2="16.541" transform="translate(295.997 73.184)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_199" data-name="Line 199" y1="24.313" transform="translate(301.416 53.745)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_200" data-name="Line 200" y1="18.905" transform="translate(306.836 36.834)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_201" data-name="Line 201" y2="15.845" transform="translate(312.255 39.443)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_202" data-name="Line 202" y2="30.857" transform="translate(317.675 44.45)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_203" data-name="Line 203" y1="11.242" transform="translate(323.095 25.14)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_204" data-name="Line 204" y2="28.849" transform="translate(328.514 14.151)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_205" data-name="Line 205" y2="19.571" transform="translate(333.934 7.226)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_206" data-name="Line 206" y2="18.517" transform="translate(339.353)" fill="none" stroke="#333" stroke-width="0.528"/>
+        <line id="Line_207" data-name="Line 207" y2="24.152" transform="translate(344.773 10.021)" fill="none" stroke="#333" stroke-width="0.528"/>
+      </g>
+      <g id="Layer_1" transform="translate(0 2.861)">
+        <rect id="Rectangle_133" data-name="Rectangle 133" width="3.161" height="13.248" transform="translate(0 51.56)" fill="#ed454a"/>
+        <rect id="Rectangle_134" data-name="Rectangle 134" width="3.161" height="5.57" transform="translate(5.42 59.238)" fill="#8cc63f"/>
+        <rect id="Rectangle_135" data-name="Rectangle 135" width="3.161" height="23.447" transform="translate(10.839 61.008)" fill="#ed454a"/>
+        <rect id="Rectangle_136" data-name="Rectangle 136" width="3.161" height="36.055" transform="translate(75.223 23.184)" fill="#ed454a"/>
+        <rect id="Rectangle_137" data-name="Rectangle 137" width="3.161" height="17.671" transform="translate(21.678 85)" fill="#ed454a"/>
+        <rect id="Rectangle_138" data-name="Rectangle 138" width="3.161" height="6.549" transform="translate(27.098 94.541)" fill="#8cc63f"/>
+        <rect id="Rectangle_139" data-name="Rectangle 139" width="3.161" height="4.351" transform="translate(32.517 83.755)" fill="#8cc63f"/>
+        <rect id="Rectangle_140" data-name="Rectangle 140" width="3.161" height="6.521" transform="translate(37.937 80.654)" fill="#ed454a"/>
+        <rect id="Rectangle_141" data-name="Rectangle 141" width="3.161" height="9.936" transform="translate(87.76 61.008)" fill="#ed454a"/>
+        <rect id="Rectangle_142" data-name="Rectangle 142" width="3.161" height="9.936" transform="translate(119.103 49.604)" fill="#ed454a"/>
+        <rect id="Rectangle_143" data-name="Rectangle 143" width="3.161" height="3.425" transform="translate(144.178 47.91)" fill="#ed454a"/>
+        <rect id="Rectangle_144" data-name="Rectangle 144" width="3.161" height="3.425" transform="translate(175.521 58.843)" fill="#ed454a"/>
+        <rect id="Rectangle_145" data-name="Rectangle 145" width="3.161" height="11.95" transform="translate(188.058 58.373)" fill="#ed454a"/>
+        <rect id="Rectangle_146" data-name="Rectangle 146" width="3.161" height="4.225" transform="translate(200.595 65.477)" fill="#ed454a"/>
+        <rect id="Rectangle_147" data-name="Rectangle 147" width="3.161" height="3.714" transform="translate(213.132 66.609)" fill="#ed454a"/>
+        <rect id="Rectangle_148" data-name="Rectangle 148" width="3.161" height="3.714" transform="translate(263.281 104.114)" fill="#ed454a"/>
+        <rect id="Rectangle_149" data-name="Rectangle 149" width="3.161" height="2.899" transform="translate(312.255 38.689)" fill="#ed454a"/>
+        <rect id="Rectangle_150" data-name="Rectangle 150" width="3.161" height="7.574" transform="translate(344.773 10.641)" fill="#ed454a"/>
+        <rect id="Rectangle_151" data-name="Rectangle 151" width="3.161" height="5.408" transform="translate(250.744 84.767)" fill="#ed454a"/>
+        <rect id="Rectangle_152" data-name="Rectangle 152" width="3.161" height="11.419" transform="translate(225.67 73.385)" fill="#ed454a"/>
+        <rect id="Rectangle_153" data-name="Rectangle 153" width="3.161" height="14.347" transform="translate(231.938 85.079)" fill="#ed454a"/>
+        <rect id="Rectangle_154" data-name="Rectangle 154" width="3.161" height="12.676" transform="translate(257.013 92.252)" fill="#ed454a"/>
+        <rect id="Rectangle_155" data-name="Rectangle 155" width="3.161" height="12.012" transform="translate(290.577 72.756)" fill="#ed454a"/>
+        <rect id="Rectangle_156" data-name="Rectangle 156" width="3.161" height="27.311" transform="translate(317.675 43.464)" fill="#ed454a"/>
+        <rect id="Rectangle_157" data-name="Rectangle 157" width="3.161" height="12.012" transform="translate(295.997 71.703)" fill="#8cc63f"/>
+        <rect id="Rectangle_158" data-name="Rectangle 158" width="3.161" height="18.043" transform="translate(301.416 54.572)" fill="#8cc63f"/>
+        <rect id="Rectangle_159" data-name="Rectangle 159" width="3.161" height="14.452" transform="translate(306.836 37.184)" fill="#8cc63f"/>
+        <rect id="Rectangle_160" data-name="Rectangle 160" width="3.161" height="25.743" transform="translate(323.095 25.893)" fill="#8cc63f"/>
+        <rect id="Rectangle_161" data-name="Rectangle 161" width="3.161" height="14.357" transform="translate(328.514 14.396)" fill="#8cc63f"/>
+        <rect id="Rectangle_162" data-name="Rectangle 162" width="3.161" height="14.396" transform="translate(339.353)" fill="#8cc63f"/>
+        <rect id="Rectangle_163" data-name="Rectangle 163" width="3.161" height="4.611" transform="translate(333.934 9.785)" fill="#8cc63f"/>
+        <rect id="Rectangle_164" data-name="Rectangle 164" width="3.161" height="11.079" transform="translate(238.207 98.576)" fill="#ed454a"/>
+        <rect id="Rectangle_165" data-name="Rectangle 165" width="3.161" height="22.715" transform="translate(244.475 83.914)" fill="#8cc63f"/>
+        <rect id="Rectangle_166" data-name="Rectangle 166" width="3.161" height="14.84" transform="translate(269.55 72.631)" fill="#8cc63f"/>
+        <rect id="Rectangle_167" data-name="Rectangle 167" width="3.161" height="3.243" transform="translate(275.818 70.824)" fill="#8cc63f"/>
+        <rect id="Rectangle_168" data-name="Rectangle 168" width="3.161" height="1.857" transform="translate(219.401 70.774)" fill="#ed454a"/>
+        <rect id="Rectangle_169" data-name="Rectangle 169" width="3.161" height="4.842" transform="translate(156.715 30.084)" fill="#ed454a"/>
+        <rect id="Rectangle_170" data-name="Rectangle 170" width="3.161" height="31.438" transform="translate(162.984 32.505)" fill="#ed454a"/>
+        <rect id="Rectangle_171" data-name="Rectangle 171" width="3.161" height="20.486" transform="translate(150.446 33.521)" fill="#8cc63f"/>
+        <rect id="Rectangle_172" data-name="Rectangle 172" width="3.161" height="11.517" transform="translate(125.372 58.185)" fill="#ed454a"/>
+        <rect id="Rectangle_173" data-name="Rectangle 173" width="3.161" height="20.591" transform="translate(137.909 46.702)" fill="#8cc63f"/>
+        <rect id="Rectangle_174" data-name="Rectangle 174" width="3.161" height="0.527" transform="translate(131.641 68.798)" fill="#ed454a"/>
+        <rect id="Rectangle_175" data-name="Rectangle 175" width="3.161" height="0.527" transform="translate(169.252 58.373)" fill="#8cc63f"/>
+        <rect id="Rectangle_176" data-name="Rectangle 176" width="3.161" height="1.022" transform="translate(181.789 61.858)" fill="#8cc63f"/>
+        <rect id="Rectangle_177" data-name="Rectangle 177" width="3.161" height="3.245" transform="translate(194.327 65.477)" fill="#8cc63f"/>
+        <rect id="Rectangle_178" data-name="Rectangle 178" width="3.161" height="4.449" transform="translate(206.864 64.762)" fill="#8cc63f"/>
+        <rect id="Rectangle_179" data-name="Rectangle 179" width="3.161" height="13.21" transform="translate(94.029 69.702)" fill="#ed454a"/>
+        <rect id="Rectangle_180" data-name="Rectangle 180" width="3.161" height="8.693" transform="translate(100.298 76.307)" fill="#8cc63f"/>
+        <rect id="Rectangle_181" data-name="Rectangle 181" width="3.161" height="7.608" transform="translate(106.566 76.307)" fill="#ed454a"/>
+        <rect id="Rectangle_182" data-name="Rectangle 182" width="3.161" height="13.915" transform="translate(112.835 87.175)" fill="#ed454a"/>
+        <rect id="Rectangle_183" data-name="Rectangle 183" width="3.161" height="32.405" transform="translate(43.357 56.604)" fill="#8cc63f"/>
+        <rect id="Rectangle_184" data-name="Rectangle 184" width="3.161" height="21.193" transform="translate(48.776 38.689)" fill="#8cc63f"/>
+        <rect id="Rectangle_185" data-name="Rectangle 185" width="3.161" height="6.875" transform="translate(54.196 26.646)" fill="#8cc63f"/>
+        <rect id="Rectangle_186" data-name="Rectangle 186" width="3.161" height="1.49" transform="translate(68.955 24.23)" fill="#8cc63f"/>
+        <rect id="Rectangle_187" data-name="Rectangle 187" width="3.161" height="2.49" transform="translate(16.259 83.755)" fill="#ed454a"/>
+        <rect id="Rectangle_188" data-name="Rectangle 188" width="3.161" height="1.204" transform="translate(81.492 58.636)" fill="#ed454a"/>
+      </g>
+    </g>
+  </g>
+</svg>

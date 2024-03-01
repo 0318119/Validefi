@@ -1,0 +1,98 @@
+.banner-faq{
+    margin-top: 120px;
+}
+.bannerfaq-clss{
+    background-image: url('../images/banner-bg.png');
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 39px;
+    color: white;
+}
+
+.text-banner{
+    display: flex;
+    margin-top: 39px;
+    color: white;
+    justify-content: center;
+    flex-direction: column;
+    line-height: 2rem;
+    align-items: center;
+
+}
+.faq{
+    color: #7c6803;
+    font-size: 28px;
+}
+.faq-heading{
+    font-size: 52px;
+    color: white;
+}
+
+.banner-faq1{
+    background-color: white;
+}
+.form-control{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.search-row{
+    margin-top: 5px;
+}
+.faq-input{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    padding: 10px 5px;
+    height: 150px;
+}
+.search{
+    height: 55px;
+    font-size: 16px;
+    padding: 0px 33px;
+    border: 1px solid #f0c537;
+    width: 65%;
+    margin-top: 5px;
+    border-radius: 6px;
+    letter-spacing: 1px;
+}
+.faq-search{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.faq-input i{
+    color: black;
+    font-size: 20px;
+    position: relative;
+    float: right;
+    color: black;
+    font-size: 30px;
+    position: relative;
+    float: right;
+    right: 50px;
+}
+@media screen and (max-width:992px){
+    .search{
+        width: 100%;
+    }
+}
+@media screen and (max-width:768px){
+    .faq-heading {
+        font-size: 30px;
+    }
+    .bannerfaq-clss {
+        height: 300px;
+    }
+}
+@media screen and (max-width:480px){
+    .faq-heading {
+        font-size: 22px;
+    }
+}

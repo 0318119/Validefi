@@ -1,0 +1,49 @@
+<svg id="XMLID_35_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="61.197" height="65.746" viewBox="0 0 61.197 65.746">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b2802c"/>
+      <stop offset="0.054" stop-color="#b5852d"/>
+      <stop offset="0.132" stop-color="#c09434"/>
+      <stop offset="0.225" stop-color="#d2af43"/>
+      <stop offset="0.327" stop-color="#f2da60"/>
+      <stop offset="0.333" stop-color="#f4dd62"/>
+      <stop offset="0.516" stop-color="#f4e38b"/>
+      <stop offset="0.661" stop-color="#f4dd62"/>
+      <stop offset="1" stop-color="#b2802c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#777570"/>
+      <stop offset="0.063" stop-color="#7c7a75"/>
+      <stop offset="0.154" stop-color="#8d8a84"/>
+      <stop offset="0.261" stop-color="#aaa8a1"/>
+      <stop offset="0.333" stop-color="#c8c6bd"/>
+      <stop offset="0.516" stop-color="#e0dfd9"/>
+      <stop offset="0.661" stop-color="#c8c6bd"/>
+      <stop offset="1" stop-color="#777570"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="0.499" x2="1" y2="0.499" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="0" y1="0.499" x2="0.999" y2="0.499" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-5" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-7" x1="0.001" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="XMLID_151_" transform="translate(0.018 12.667)">
+    <path id="XMLID_155_" d="M598,393l30.514,52.151L659.178,393l-30.664,31.341Z" transform="translate(-598 -392.072)" fill="url(#linear-gradient)"/>
+    <path id="XMLID_152_" d="M629.39,412.392,607,389.3h56.464l-22.189,23.092,9.653-14.743-7.2.05-8.324,19.256-8.826-19.181-6.92-.125Z" transform="translate(-604.743 -389.3)" fill="url(#linear-gradient-2)"/>
+  </g>
+  <g id="XMLID_401_" transform="translate(0 0)">
+    <g id="XMLID_402_" transform="translate(6.863)">
+      <path id="XMLID_403_" d="M662.157,350.442h10.831a29.893,29.893,0,0,0-19.808-11.408s-17.3-2.984-27.881,11.408c0,0,6.068-7.773,19.732-7.447A25.867,25.867,0,0,1,662.157,350.442Z" transform="translate(-625.3 -338.778)" fill="url(#linear-gradient-3)"/>
+      <path id="XMLID_404_" d="M631.4,366.454h9a22.2,22.2,0,0,1,20.083-3.084A25.441,25.441,0,0,0,631.4,366.454Z" transform="translate(-629.871 -354.79)" fill="url(#linear-gradient-4)"/>
+    </g>
+    <g id="XMLID_405_" transform="translate(34.744 19.487)">
+      <path id="XMLID_406_" d="M741.991,448.292l-5.491,9.352a29.869,29.869,0,0,0,19.858-11.308s11.333-13.414,4.287-29.837c0,0,3.636,9.152-3.56,20.785A26.322,26.322,0,0,1,741.991,448.292Z" transform="translate(-736.5 -416.5)" fill="url(#linear-gradient-5)"/>
+      <path id="XMLID_407_" d="M793.66,421.7l-4.563,7.748a22.183,22.183,0,0,1-7.5,18.88A25.435,25.435,0,0,0,793.66,421.7Z" transform="translate(-770.292 -420.396)" fill="url(#linear-gradient-6)"/>
+    </g>
+    <g id="XMLID_408_" transform="translate(0 19.186)">
+      <path id="XMLID_409_" d="M605.619,424.7l-5.391-9.4a29.806,29.806,0,0,0-.05,22.841s5.992,16.5,23.744,18.554c0,0-9.753-1.4-16.247-13.439A26.017,26.017,0,0,1,605.619,424.7Z" transform="translate(-597.929 -415.3)" fill="url(#linear-gradient-7)"/>
+      <path id="XMLID_410_" d="M647.493,504.294l-4.463-7.8a22.14,22.14,0,0,1-12.637-15.9A25.418,25.418,0,0,0,647.493,504.294Z" transform="translate(-622.252 -464.227)" fill="url(#linear-gradient-8)"/>
+    </g>
+  </g>
+</svg>
